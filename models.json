@@ -3252,5 +3252,765 @@
       "reason": "список index-new",
       "sortYear": 1956
     }
+  },
+  "54": {
+    "title": "Fiat 500",
+    "model_image": "models/KT5004/KT5004-photo.jpg",
+    "scale": "1:24",
+    "color": [
+      "#DF0000",
+      "#0021D7",
+      "#7FC8FF",
+      "#000000"
+    ],
+    "item_no": "KT5004",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5004D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.3 cu.ft.",
+        "image": "models/KT5004/KT5004-tray.jpg",
+        "images": [
+          "models/KT5004/KT5004-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5004W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5004/KT5004-box.jpg",
+        "images": [
+          "models/KT5004/KT5004-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5004/KT5004-photo.jpg"
+    ]
+  },
+  "80": {
+    "title": "1967 Volkswagen Classical Beetle (Off Road)",
+    "model_image": "models/KT5057B/KT5057B-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#E70000",
+      "#0021D7",
+      "#FFFF08",
+      "#000000"
+    ],
+    "item_no": "KT5057B",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5057DB",
+        "packing": "12 pcs in a display box",
+        "inner_box": "48 pcs",
+        "outer_box": "96 pcs",
+        "meas": "4.0 cu.ft.",
+        "image": "models/KT5057B/KT5057B-tray.jpg",
+        "images": [
+          "models/KT5057B/KT5057B-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5057WB",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 ocs",
+        "meas": "4.6 cu.ft.",
+        "image": "models/KT5057B/KT5057B-box.jpg",
+        "images": [
+          "models/KT5057B/KT5057B-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5057B/KT5057B-photo.jpg"
+    ],
+    "_classic": {
+      "sortYear": 1967
+    }
+  },
+  "82": {
+    "title": "1967 Volkswagen Classical Beetle w/ printing (Off Road)",
+    "model_image": "models/KT5057FB/KT5057FB-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#E70000",
+      "#0021D7",
+      "#FFFF08",
+      "#000000"
+    ],
+    "item_no": "KT5057FB",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5057DFB",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "4.0 cu.ft.",
+        "image": "models/KT5057FB/KT5057FB-tray.jpg",
+        "images": [
+          "models/KT5057FB/KT5057FB-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5057WFB",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "4.6 cu.ft.",
+        "image": "models/KT5057FB/KT5057FB-box.jpg",
+        "images": [
+          "models/KT5057FB/KT5057FB-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5057FB/KT5057FB-photo.jpg"
+    ],
+    "_classic": {
+      "sortYear": 1967
+    }
+  },
+  "83": {
+    "title": "1962 Volkswagen Classical Bus w/ printing & wooden surfboard (Off Road)",
+    "model_image": "models/KT5057FBS1/KT5057FBS1-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#E70000",
+      "#0021D7",
+      "#FFFF08",
+      "#000000"
+    ],
+    "item_no": "KT5057FBS1",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5057DFBS1",
+        "packing": "12 pcs in a display box",
+        "inner_box": "48 pcs",
+        "outer_box": "96 pcs",
+        "meas": "4.3 cu.ft.",
+        "image": "models/KT5057FBS1/KT5057FBS1-tray.jpg",
+        "images": [
+          "models/KT5057FBS1/KT5057FBS1-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5057WFBS1",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "4.6 cu.ft.",
+        "image": "models/KT5057FBS1/KT5057FBS1-box.jpg",
+        "images": [
+          "models/KT5057FBS1/KT5057FBS1-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5057FBS1/KT5057FBS1-photo.jpg"
+    ],
+    "_classic": {
+      "sortYear": 1962
+    }
+  },
+  "91": {
+    "title": "1962 Volkswagen Classical Bus (Off Road)",
+    "model_image": "models/KT5060B/KT5060B-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#BF0000",
+      "#FFFF20",
+      "#00504E",
+      "#870000"
+    ],
+    "item_no": "KT5060B",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5060DB",
+        "packing": "12 pcs in a display box",
+        "inner_box": "48 pcs",
+        "outer_box": "96 pcs",
+        "meas": "4.5 cu.ft.",
+        "image": "models/KT5060B/KT5060B-tray.jpg",
+        "images": [
+          "models/KT5060B/KT5060B-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5060WB",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "4.6 cu.ft.",
+        "image": "models/KT5060B/KT5060B-box.jpg",
+        "images": [
+          "models/KT5060B/KT5060B-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5060B/KT5060B-photo.jpg"
+    ],
+    "_classic": {
+      "sortYear": 1962
+    }
+  },
+  "93": {
+    "title": "1962 Volkswagen Classical Bus w/ printing (Off Road)",
+    "model_image": "models/KT5060FB/KT5060FB-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#BF0000",
+      "#FFFF20",
+      "#00504E",
+      "#870000"
+    ],
+    "item_no": "KT5060FB",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5060DFB",
+        "packing": "12 pcs in a display box",
+        "inner_box": "48 pcs",
+        "outer_box": "96 pcs",
+        "meas": "4.5 cu.ft.",
+        "image": "models/KT5060FB/KT5060FB-tray.jpg",
+        "images": [
+          "models/KT5060FB/KT5060FB-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5060WFB",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "4.6 cu.ft.",
+        "image": "models/KT5060FB/KT5060FB-box.jpg",
+        "images": [
+          "models/KT5060FB/KT5060FB-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5060FB/KT5060FB-photo.jpg"
+    ],
+    "_classic": {
+      "sortYear": 1962
+    }
+  },
+  "94": {
+    "title": "1962 Volkswagen Classical Bus w/ printing & wooden surfboard (Off Road)",
+    "model_image": "models/KT5060FBS1/KT5060FBS1-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#BF0000",
+      "#FFFF20",
+      "#00504E",
+      "#870000"
+    ],
+    "item_no": "KT5060FBS1",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5060DFBS1",
+        "packing": "12 pcs in a display box",
+        "inner_box": "48 pcs",
+        "outer_box": "96 pcs",
+        "meas": "4.8 cu.ft.",
+        "image": "models/KT5060FBS1/KT5060FBS1-tray.jpg",
+        "images": [
+          "models/KT5060FBS1/KT5060FBS1-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5060WFBS1",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "72 pcs",
+        "meas": "4.2 cu.ft.",
+        "image": "models/KT5060FBS1/KT5060FBS1-box.jpg",
+        "images": [
+          "models/KT5060FBS1/KT5060FBS1-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5060FBS1/KT5060FBS1-photo.jpg"
+    ],
+    "_classic": {
+      "sortYear": 1962
+    }
+  },
+  "148": {
+    "title": "1955 Chevy Stepside Pick-up (off Road)",
+    "model_image": "models/KT5330B/KT5330B-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#E70200",
+      "#FF3500",
+      "#FFFFB7",
+      "#001FEF"
+    ],
+    "item_no": "KT5330B",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5330DB",
+        "packing": "12 pcs in a display box",
+        "inner_box": "48 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5330B/KT5330B-tray.jpg",
+        "images": [
+          "models/KT5330B/KT5330B-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5330WB",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "4.6 cu.ft.",
+        "image": "models/KT5330B/KT5330B-box.jpg",
+        "images": [
+          "models/KT5330B/KT5330B-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5330B/KT5330B-photo.jpg"
+    ],
+    "_classic": {
+      "sortYear": 1955
+    }
+  },
+  "155": {
+    "title": "1953 Chevrolet 3100 Wrecker (Off Road)",
+    "model_image": "models/KT5333/KT5333-photo.jpg",
+    "scale": "1:38",
+    "color": [
+      "#E70000",
+      "#0000BF",
+      "#002800",
+      "#000000"
+    ],
+    "item_no": "KT5333",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5333D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "36 pcs",
+        "outer_box": "72 pcs",
+        "meas": "4.1 cu.ft.",
+        "image": "models/KT5333/KT5333-tray.jpg",
+        "images": [
+          "models/KT5333/KT5333-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5333W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "72 pcs",
+        "meas": "4.7 cu.ft.",
+        "image": "models/KT5333/KT5333-box.jpg",
+        "images": [
+          "models/KT5333/KT5333-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5333/KT5333-photo.jpg"
+    ],
+    "_classic": {
+      "sortYear": 1953
+    }
+  },
+  "281": {
+    "title": "Volkswagen Beetle Custom Dragracer",
+    "model_image": "models/KT5405/KT5405-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#A70000",
+      "#2083FF",
+      "#00A73C",
+      "#3F00CF"
+    ],
+    "item_no": "KT5405",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5405D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.4 cu.ft.",
+        "image": "models/KT5405/KT5405-tray.jpg",
+        "images": [
+          "models/KT5405/KT5405-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5405W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5405/KT5405-box.jpg",
+        "images": [
+          "models/KT5405/KT5405-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5405/KT5405-photo.jpg"
+    ]
+  },
+  "214": {
+    "title": "1967 Volkswagen Classical Beetle",
+    "model_image": "models/KT7002/KT7002-photo.jpg",
+    "scale": "1:24",
+    "color": [
+      "#FF0827",
+      "#0019CF",
+      "#000000"
+    ],
+    "item_no": "KT7002",
+    "description": "7'' Die Cast Metal, Doors Openable, Free Wheeling",
+    "packaging": [
+      {
+        "item_no": "KT7002D",
+        "packing": "6 pcs a display box",
+        "inner_box": "36 pcs",
+        "outer_box": "72 pcs",
+        "meas": "3.2 cu.ft.",
+        "image": "models/KT7002/KT7002-tray.jpg",
+        "images": [
+          "models/KT7002/KT7002-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT7002W",
+        "packing": "1 pc in a window box",
+        "inner_box": "12 pcs",
+        "outer_box": "48 pcs",
+        "meas": "3.5 cu.ft.",
+        "image": "models/KT7002/KT7002-box.jpg",
+        "images": [
+          "models/KT7002/KT7002-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT7002/KT7002-photo.jpg"
+    ],
+    "_classic": {
+      "sortYear": 1967
+    }
+  },
+  "217": {
+    "title": "1967 Volkswagen Classical Beetle (Color Door)",
+    "model_image": "models/KT7002C/KT7002C-photo.jpg",
+    "scale": "1:24",
+    "color": [
+      "#FF0827",
+      "#0019CF",
+      "#000000"
+    ],
+    "item_no": "KT7002C",
+    "description": "7'' Die Cast Metal, Doors Openable, Free Wheeling",
+    "packaging": [
+      {
+        "item_no": "KT7002DC",
+        "packing": "6 pcs in a display box",
+        "inner_box": "36 pcs",
+        "outer_box": "72 pcs",
+        "meas": "3.2 cu.ft.",
+        "image": "models/KT7002C/KT7002C-tray.jpg",
+        "images": [
+          "models/KT7002C/KT7002C-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT7002WC",
+        "packing": "1 pc in a window box",
+        "inner_box": "12 pcs",
+        "outer_box": "48 pcs",
+        "meas": "3.5 cu.ft.",
+        "image": "models/KT7002C/KT7002C-box.jpg",
+        "images": [
+          "models/KT7002C/KT7002C-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT7002C/KT7002C-photo.jpg"
+    ],
+    "_classic": {
+      "sortYear": 1967
+    }
+  },
+  "285": {
+    "title": "1967 Volkswagen Classical Beetle (Black Fender)",
+    "model_image": "models/KT7002E/KT7002E-photo.jpg",
+    "scale": "1:24",
+    "color": [
+      "#FF0827",
+      "#0019CF",
+      "#000000"
+    ],
+    "item_no": "KT7002E",
+    "description": "7'' Die Cast Metal, Doors Openable, Free Wheeling",
+    "packaging": [
+      {
+        "item_no": "KT7002DE",
+        "packing": "6 pcs in a display box",
+        "inner_box": "36 pcs",
+        "outer_box": "72 pcs",
+        "meas": "3.2 cu.ft.",
+        "image": "models/KT7002E/KT7002E-tray.jpg",
+        "images": [
+          "models/KT7002E/KT7002E-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT7002WE",
+        "packing": "1 pc in a window box",
+        "inner_box": "12 pcs",
+        "outer_box": "48 pcs",
+        "meas": "3.5 cu.ft.",
+        "image": "models/KT7002E/KT7002E-box.jpg",
+        "images": [
+          "models/KT7002E/KT7002E-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT7002E/KT7002E-photo.jpg"
+    ],
+    "_classic": {
+      "sortYear": 1967
+    }
+  },
+  "215": {
+    "title": "1967 Volkswagen Classical Beetle w/ printing",
+    "model_image": "models/KT7002F/KT7002F-photo.jpg",
+    "scale": "1:24",
+    "color": [
+      "#FF0827",
+      "#0019CF",
+      "#000000"
+    ],
+    "item_no": "KT7002F",
+    "description": "7'' Die Cast Metal, Doors Openable, Free Wheeling",
+    "packaging": [
+      {
+        "item_no": "KT7002DF",
+        "packing": "6 pcs in a display box",
+        "inner_box": "36 pcs",
+        "outer_box": "72 pcs",
+        "meas": "3.2 cu.ft.",
+        "image": "models/KT7002F/KT7002F-tray.jpg",
+        "images": [
+          "models/KT7002F/KT7002F-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT7002WF",
+        "packing": "1 pc in a window box",
+        "inner_box": "12 pcs",
+        "outer_box": "48 pcs",
+        "meas": "3.5 cu.ft.",
+        "image": "models/KT7002F/KT7002F-box.jpg",
+        "images": [
+          "models/KT7002F/KT7002F-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT7002F/KT7002F-photo.jpg"
+    ],
+    "_classic": {
+      "sortYear": 1967
+    }
+  },
+  "216": {
+    "title": "1967 Volkswagen Classical Beetle w/ printing & wooden surfboard",
+    "model_image": "models/KT7002FS1/KT7002FS1-photo.jpg",
+    "scale": "1:24",
+    "color": [
+      "#FF0827",
+      "#0019CF",
+      "#000000"
+    ],
+    "item_no": "KT7002FS1",
+    "description": "7'' Die Cast Metal, Doors Openable, Free Wheeling",
+    "packaging": [
+      {
+        "item_no": "KT7002DFS1",
+        "packing": "6 pcs in a display box",
+        "inner_box": "36 pcs",
+        "outer_box": "72 pcs",
+        "meas": "3.6 cu.ft.",
+        "image": "models/KT7002FS1/KT7002FS1-tray.jpg",
+        "images": [
+          "models/KT7002FS1/KT7002FS1-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT7002WFS1",
+        "packing": "1 pc in a window box",
+        "inner_box": "12 pcs",
+        "outer_box": "48 pcs",
+        "meas": "3.5 cu.ft.",
+        "image": "models/KT7002FS1/KT7002FS1-box.jpg",
+        "images": [
+          "models/KT7002FS1/KT7002FS1-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT7002FS1/KT7002FS1-photo.jpg"
+    ],
+    "_classic": {
+      "sortYear": 1967
+    }
+  },
+  "218": {
+    "title": "1967 Volkswagen Classical Beetle (Pastel Color)",
+    "model_image": "models/KT7002Y/KT7002Y-photo.jpg",
+    "scale": "1:24",
+    "color": [
+      "#FFFF9F",
+      "#FFAFFF",
+      "#8FD8FF"
+    ],
+    "item_no": "KT7002Y",
+    "description": "7'' Die Cast Metal, Doors Openable, Free Wheeling",
+    "packaging": [
+      {
+        "item_no": "KT7002DY",
+        "packing": "6 pcs in a display box",
+        "inner_box": "36 pcs",
+        "outer_box": "72 pcs",
+        "meas": "3.2 cu.ft.",
+        "image": "models/KT7002Y/KT7002Y-tray.jpg",
+        "images": [
+          "models/KT7002Y/KT7002Y-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT7002WY",
+        "packing": "1 pc in a window box",
+        "inner_box": "12 pcs",
+        "outer_box": "48 pcs",
+        "meas": "3.5 cu.ft.",
+        "image": "models/KT7002Y/KT7002Y-box.jpg",
+        "images": [
+          "models/KT7002Y/KT7002Y-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT7002Y/KT7002Y-photo.jpg"
+    ],
+    "_classic": {
+      "sortYear": 1967
+    }
+  },
+  "220": {
+    "title": "1962 Volkswagen Classical Bus",
+    "model_image": "models/KT7005/KT7005-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#FF001F",
+      "#000DF7",
+      "#004811"
+    ],
+    "item_no": "KT7005",
+    "description": "7'' Die Cast Metal. Doors Openable. Free Wheeling",
+    "packaging": [
+      {
+        "item_no": "KT7005D",
+        "packing": "6 pcs in a display box",
+        "inner_box": "36 pcs",
+        "outer_box": "72 pcs",
+        "meas": "4.1 cu.ft.",
+        "image": "models/KT7005/KT7005-tray.jpg",
+        "images": [
+          "models/KT7005/KT7005-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT7005W",
+        "packing": "1 pc in a window box",
+        "inner_box": "12 pcs",
+        "outer_box": "48 pcs",
+        "meas": "3.5 cu.ft.",
+        "image": "models/KT7005/KT7005-box.jpg",
+        "images": [
+          "models/KT7005/KT7005-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT7005/KT7005-photo.jpg"
+    ],
+    "_classic": {
+      "sortYear": 1962
+    }
+  },
+  "221": {
+    "title": "1962 Volkswagen Classical Bus w/ printing",
+    "model_image": "models/KT7005F/KT7005F-photo.jpg",
+    "scale": "1:24",
+    "color": [
+      "#FF001F",
+      "#000DF7",
+      "#004811"
+    ],
+    "item_no": "KT7005F",
+    "description": "7'' Die Cast Metal, Doors Openable, Free Wheeling",
+    "packaging": [
+      {
+        "item_no": "KT7005DF",
+        "packing": "6 pcs in a display box",
+        "inner_box": "36 pcs",
+        "outer_box": "72 pcs",
+        "meas": "4.1 cu.ft.",
+        "image": "models/KT7005F/KT7005F-tray.jpg",
+        "images": [
+          "models/KT7005F/KT7005F-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT7005WF",
+        "packing": "1 pc in a window box",
+        "inner_box": "12 pcs",
+        "outer_box": "48 pcs",
+        "meas": "3.5 cu.ft.",
+        "image": "models/KT7005F/KT7005F-box.jpg",
+        "images": [
+          "models/KT7005F/KT7005F-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT7005F/KT7005F-photo.jpg"
+    ],
+    "_classic": {
+      "sortYear": 1962
+    }
   }
 }
