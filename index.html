@@ -1,0 +1,1140 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kinsmart - Collection</title>
+  <link rel="shortcut icon" href="media/favicon.ico">
+  <style>
+    :root {
+      --bg: #fff;
+      --card: #fff;
+      --text: #1f1f1f;
+      --muted: #666;
+      --line: #e3e3e3;
+      --panel: #f5f5f5;
+      --accent: #7a4f2a;
+      --badge: #3d5a40;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.45;
+    }
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: var(--card);
+      border-bottom: 1px solid var(--line);
+      padding: .5rem 1.25rem;
+      box-shadow: 0 1px 8px rgba(0,0,0,.06);
+    }
+    .header-bar {
+      display: flex;
+      align-items: center;
+      gap: .85rem;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+    .header-logo {
+      flex: 0 0 auto;
+      display: flex;
+      align-items: center;
+      line-height: 0;
+    }
+    .header-logo img {
+      height: 38px;
+      width: auto;
+      max-width: 140px;
+      object-fit: contain;
+      display: block;
+    }
+    #search {
+      flex: 1;
+      min-width: 0;
+      padding: .45rem .65rem;
+      font-size: .95rem;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--bg);
+    }
+    #count {
+      margin: 0;
+      flex: 0 0 auto;
+      font-size: .9rem;
+      font-weight: 600;
+      color: var(--muted);
+      white-space: nowrap;
+      padding-left: .25rem;
+    }
+    #edit-mode-btn {
+      flex: 0 0 auto;
+      padding: .4rem .65rem;
+      font-size: .82rem;
+      font-weight: 600;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--bg);
+      color: var(--text);
+      cursor: pointer;
+    }
+    #edit-mode-btn:hover {
+      border-color: var(--accent);
+    }
+    #edit-mode-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+    #edit-panel {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index: 11;
+      background: var(--card);
+      border-top: 1px solid var(--line);
+      padding: .65rem 1.25rem .85rem;
+      box-shadow: 0 -4px 18px rgba(0, 0, 0, 0.08);
+    }
+    #edit-panel[hidden] {
+      display: none !important;
+    }
+    .edit-panel-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: .75rem;
+      margin-bottom: .45rem;
+    }
+    .edit-panel-head p {
+      margin: 0;
+      font-size: .82rem;
+      color: var(--muted);
+    }
+    #edit-copy {
+      padding: .35rem .7rem;
+      font-size: .82rem;
+      font-weight: 600;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: var(--bg);
+      cursor: pointer;
+    }
+    #edit-copy:hover {
+      border-color: var(--accent);
+    }
+    #edit-export {
+      width: 100%;
+      min-height: 5.5rem;
+      max-height: 22vh;
+      margin: 0;
+      padding: .5rem .6rem;
+      font-family: ui-monospace, Consolas, monospace;
+      font-size: .75rem;
+      line-height: 1.4;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      resize: vertical;
+      background: var(--panel);
+    }
+    body.edit-mode-on main {
+      padding-bottom: 11rem;
+    }
+    #search:focus {
+      outline: 2px solid rgba(122, 79, 42, 0.35);
+      border-color: var(--accent);
+      background: var(--card);
+    }
+    #status {
+      max-width: 1100px;
+      margin: .25rem auto 0;
+      font-size: .8rem;
+    }
+    #status.error { color: #b00020; }
+    main { max-width: 1100px; margin: 0 auto; padding: 1rem 1.25rem 3rem; }
+    .list { display: flex; flex-direction: column; gap: 1.25rem; }
+    .car {
+      --car-media-w: min(280px, 36vw);
+      position: relative;
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+    .car-site-id {
+      position: absolute;
+      top: .45rem;
+      right: .65rem;
+      z-index: 2;
+      font-size: .82rem;
+      font-weight: 650;
+      color: var(--muted);
+      text-decoration: none;
+      letter-spacing: .02em;
+    }
+    .car-site-id:hover {
+      color: var(--accent);
+      text-decoration: underline;
+    }
+    .car-media {
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      width: var(--car-media-w);
+      background: var(--bg);
+      border-right: 1px solid var(--line);
+      padding: 1rem;
+      display: flex;
+      flex-direction: column;
+      align-items: stretch;
+      gap: .5rem;
+      min-height: 0;
+      overflow: hidden;
+    }
+    .car-body {
+      margin-left: var(--car-media-w);
+      padding: 1rem 1.25rem 1.25rem;
+      background: var(--panel);
+    }
+    @media (max-width: 720px) {
+      .car-media {
+        position: static;
+        width: auto;
+        max-height: none;
+        border-right: none;
+        border-bottom: 1px solid var(--line);
+      }
+      .car-body { margin-left: 0; }
+      .model-extras { max-height: 16rem; }
+    }
+    .car-media > .model-view,
+    .car-media > .empty-img {
+      flex: 1;
+      min-height: 0;
+      overflow: hidden;
+    }
+    .car-media .model-primary,
+    .pack img {
+      cursor: zoom-in;
+    }
+    .model-view {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: stretch;
+      gap: .5rem;
+      min-height: 0;
+    }
+    .model-primary-wrap {
+      flex: 0 0 auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      height: 220px;
+      min-height: 220px;
+      max-height: 220px;
+    }
+    .model-primary {
+      display: block;
+      width: 100%;
+      height: 100%;
+      max-width: 100%;
+      object-fit: contain;
+      object-position: center;
+    }
+    .model-extras {
+      flex: 1;
+      min-height: 0;
+      width: 100%;
+      overflow: hidden;
+    }
+    .model-thumbs {
+      height: 100%;
+      max-height: 100%;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 6px;
+      align-content: start;
+      overflow-y: auto;
+      overflow-x: hidden;
+      padding: 0 2px 2px 0;
+      scrollbar-width: thin;
+    }
+    .model-thumbs img {
+      width: 100%;
+      aspect-ratio: 4 / 3;
+      object-fit: cover;
+      object-position: center;
+      border: 2px solid transparent;
+      border-radius: 5px;
+      background: var(--panel);
+      cursor: pointer;
+      opacity: .92;
+    }
+    .model-thumbs img:hover {
+      opacity: 1;
+      border-color: rgba(122, 79, 42, 0.45);
+    }
+    .model-thumbs img.active {
+      opacity: 1;
+      border-color: var(--accent);
+    }
+    .car-id {
+      font-size: .75rem;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .04em;
+    }
+    .car-title {
+      margin: 0 0 .5rem;
+      font-size: 1.25rem;
+      font-weight: 650;
+      color: var(--accent);
+    }
+    dl.meta {
+      margin: 0;
+      display: grid;
+      grid-template-columns: 7rem 1fr;
+      gap: .35rem .75rem;
+      font-size: .95rem;
+    }
+    dl.meta dt { margin: 0; color: var(--muted); font-weight: 600; }
+    dl.meta dd { margin: 0; }
+    .color-swatches {
+      display: inline-flex;
+      flex-wrap: wrap;
+      align-items: flex-start;
+      gap: 6px 8px;
+      vertical-align: middle;
+    }
+    .color-chip {
+      display: inline-flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 3px;
+    }
+    .swatch {
+      --swatch: #888;
+      width: 18px;
+      height: 18px;
+      border-radius: 4px;
+      background: var(--swatch);
+      box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.18);
+      flex-shrink: 0;
+    }
+    .swatch-light {
+      box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.35);
+    }
+    .collection-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: #1a1a1a;
+      flex-shrink: 0;
+    }
+    .edit-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: #d32f2f;
+      flex-shrink: 0;
+    }
+    body.edit-mode-on .color-chip-editable {
+      cursor: pointer;
+    }
+    body.edit-mode-on .color-chip-editable:hover .swatch {
+      outline: 2px solid rgba(211, 47, 47, 0.45);
+      outline-offset: 1px;
+    }
+    .packaging { margin-top: 1.25rem; padding-top: 1rem; border-top: 1px dashed var(--line); }
+    .pack-list {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: .75rem;
+      align-items: stretch;
+    }
+    @media (max-width: 720px) {
+      .pack-list { grid-template-columns: 1fr; }
+    }
+    .pack {
+      display: flex;
+      flex-direction: column;
+      gap: .35rem;
+      min-width: 0;
+      background: var(--bg);
+      border-radius: 8px;
+      padding: .5rem .55rem;
+      border: 1px solid var(--line);
+    }
+    .pack-kind {
+      margin: 0;
+      font-size: .68rem;
+      font-weight: 650;
+      text-transform: uppercase;
+      letter-spacing: .05em;
+      color: var(--accent);
+    }
+    .pack-body {
+      display: grid;
+      grid-template-columns: minmax(68px, 32%) 1fr;
+      gap: .45rem .5rem;
+      align-items: start;
+      min-width: 0;
+    }
+    .pack-media {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      min-width: 0;
+    }
+    .pack img {
+      width: 100%;
+      max-height: 76px;
+      object-fit: contain;
+      background: var(--bg);
+      border-radius: 4px;
+    }
+    .pack-gallery {
+      display: flex;
+      flex-direction: column;
+      gap: .25rem;
+      width: 100%;
+    }
+    .pack-gallery img {
+      width: 100%;
+      max-height: 56px;
+      object-fit: contain;
+    }
+    .pack dl.meta {
+      grid-template-columns: 4.25rem 1fr;
+      gap: .12rem .35rem;
+      font-size: .72rem;
+      line-height: 1.32;
+    }
+    .pack dl.meta dt {
+      font-size: .68rem;
+      font-weight: 600;
+    }
+    .pack .empty-img {
+      min-height: 52px;
+      font-size: .65rem;
+    }
+    .empty-img {
+      width: 100%;
+      min-height: 80px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: var(--panel);
+      color: var(--muted);
+      font-size: .75rem;
+      border-radius: 4px;
+      border: 1px dashed var(--line);
+    }
+    .no-results {
+      text-align: center;
+      padding: 2.5rem 1rem;
+      color: var(--muted);
+      background: var(--card);
+      border: 1px dashed var(--line);
+      border-radius: 10px;
+    }
+    .lightbox {
+      position: fixed;
+      inset: 0;
+      z-index: 100;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 2.5rem 1.25rem;
+      background: rgba(20, 16, 12, 0.88);
+    }
+    .lightbox.open {
+      display: flex;
+    }
+    .lightbox-close {
+      position: fixed;
+      top: 0.75rem;
+      right: 0.75rem;
+      z-index: 101;
+      width: 2.75rem;
+      height: 2.75rem;
+      margin: 0;
+      padding: 0;
+      border: none;
+      border-radius: 8px;
+      background: rgba(255, 255, 255, 0.12);
+      color: #fff;
+      font-size: 1.75rem;
+      line-height: 1;
+      cursor: pointer;
+    }
+    .lightbox-close:hover {
+      background: rgba(255, 255, 255, 0.22);
+    }
+    .lightbox-close:focus-visible {
+      outline: 2px solid #fff;
+      outline-offset: 2px;
+    }
+    .lightbox-stage {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      max-width: 100%;
+      max-height: 100%;
+    }
+    .lightbox-img {
+      max-width: min(96vw, 1280px);
+      max-height: 92vh;
+      object-fit: contain;
+      background: #fff;
+      border-radius: 4px;
+      box-shadow: 0 8px 40px rgba(0, 0, 0, 0.45);
+    }
+    .lightbox-nav {
+      position: fixed;
+      top: 50%;
+      transform: translateY(-50%);
+      z-index: 101;
+      width: 2.75rem;
+      height: 3.25rem;
+      margin: 0;
+      padding: 0;
+      border: none;
+      border-radius: 8px;
+      background: rgba(255, 255, 255, 0.12);
+      color: #fff;
+      font-size: 2rem;
+      line-height: 1;
+      cursor: pointer;
+    }
+    .lightbox-nav:hover {
+      background: rgba(255, 255, 255, 0.22);
+    }
+    .lightbox-nav:focus-visible {
+      outline: 2px solid #fff;
+      outline-offset: 2px;
+    }
+    .lightbox-nav:disabled {
+      opacity: 0.25;
+      cursor: default;
+    }
+    .lightbox-prev { left: 0.75rem; }
+    .lightbox-next { right: 0.75rem; }
+    .lightbox-counter {
+      position: fixed;
+      bottom: 1rem;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 101;
+      margin: 0;
+      font-size: 0.85rem;
+      color: rgba(255, 255, 255, 0.85);
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-bar">
+      <div class="header-logo">
+        <img src="media/logo_header.png" width="120" height="38" alt="Kinsmart">
+      </div>
+      <input type="search" id="search" placeholder="id, Item No., название" autocomplete="off" spellcheck="false" disabled>
+      <button type="button" id="edit-mode-btn" title="Отметить цвета в коллекции">Коллекция</button>
+      <p id="count">…</p>
+    </div>
+    <p id="status"></p>
+  </header>
+  <main>
+    <div class="list" id="list"></div>
+  </main>
+  <div id="edit-panel" hidden>
+    <div class="edit-panel-head">
+      <p>Клик по цвету — красная точка. JSON для <code>my-collection.json</code></p>
+      <button type="button" id="edit-copy">Копировать</button>
+    </div>
+    <textarea id="edit-export" readonly spellcheck="false"></textarea>
+  </div>
+  <div class="lightbox" id="lightbox" hidden aria-hidden="true">
+    <button type="button" class="lightbox-close" id="lightbox-close" aria-label="Закрыть">×</button>
+    <button type="button" class="lightbox-nav lightbox-prev" id="lightbox-prev" aria-label="Предыдущее фото">‹</button>
+    <button type="button" class="lightbox-nav lightbox-next" id="lightbox-next" aria-label="Следующее фото">›</button>
+    <div class="lightbox-stage">
+      <img class="lightbox-img" id="lightbox-img" alt="">
+    </div>
+    <p class="lightbox-counter" id="lightbox-counter" hidden></p>
+  </div>
+  <script>
+    function esc(s) {
+      if (s == null) return "";
+      return String(s)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    function metaRow(label, valueHtml) {
+      if (!valueHtml) return "";
+      return `<dt>${esc(label)}</dt><dd>${valueHtml}</dd>`;
+    }
+
+    function normalizeHex(raw) {
+      let h = String(raw || "").trim().replace(/^#/, "");
+      if (!/^[0-9A-Fa-f]{3,8}$/.test(h)) return null;
+      if (h.length === 3) h = h.split("").map((ch) => ch + ch).join("");
+      if (h.length !== 6) return null;
+      return "#" + h.toUpperCase();
+    }
+
+    function isLightHex(hex) {
+      const h = normalizeHex(hex);
+      if (!h) return false;
+      const r = parseInt(h.slice(1, 3), 16) / 255;
+      const g = parseInt(h.slice(3, 5), 16) / 255;
+      const b = parseInt(h.slice(5, 7), 16) / 255;
+      return 0.2126 * r + 0.7152 * g + 0.0722 * b > 0.78;
+    }
+
+    let collection = {};
+    const colorDefaults = {
+      KT5506: ["#FFFFFF"],
+      KT5488: ["#888888"],
+    };
+    let editMode = false;
+    /** @type {Record<string, Set<string>>} */
+    let editPicks = {};
+
+    function applyColorDefaultsToProduct(p) {
+      if (p.color?.length) return;
+      const d = colorDefaults[p.item_no];
+      p.color = d?.length ? [...d] : ["#888888"];
+    }
+
+    function collectionEntry(itemNo) {
+      if (!itemNo) return null;
+      return collection[itemNo] ?? collection[String(itemNo).toUpperCase()] ?? null;
+    }
+
+    function normalizeOwnedList(entry) {
+      if (entry === "*" || entry === true) return "*";
+      if (Array.isArray(entry)) {
+        return entry.map((c) => normalizeHex(c)).filter(Boolean);
+      }
+      return null;
+    }
+
+    function isOwnedColor(itemNo, raw) {
+      const owned = normalizeOwnedList(collectionEntry(itemNo));
+      if (!owned) return false;
+      if (owned === "*") return true;
+      const n = normalizeHex(raw);
+      return n ? owned.includes(n) : false;
+    }
+
+    function isEditPicked(itemNo, raw) {
+      const n = normalizeHex(raw);
+      if (!n || !editPicks[itemNo]) return false;
+      return editPicks[itemNo].has(n);
+    }
+
+    function colorsForItemNo(itemNo) {
+      const entry = classics.find((e) => e.product.item_no === itemNo);
+      const p = entry?.product;
+      if (p?.color?.length) return p.color;
+      if (colorDefaults[itemNo]?.length) return colorDefaults[itemNo];
+      return ["#888888"];
+    }
+
+    function seedEditPicksFromCollection() {
+      editPicks = {};
+      for (const itemNo of Object.keys(collection)) {
+        const owned = normalizeOwnedList(collectionEntry(itemNo));
+        if (!owned) continue;
+        if (owned === "*") {
+          const colors = colorsForItemNo(itemNo)
+            .map((c) => normalizeHex(c))
+            .filter(Boolean);
+          if (colors.length) editPicks[itemNo] = new Set(colors);
+          continue;
+        }
+        editPicks[itemNo] = new Set(owned);
+      }
+    }
+
+    function exportEditPicksJson() {
+      const out = {};
+      for (const itemNo of Object.keys(editPicks).sort()) {
+        const set = editPicks[itemNo];
+        if (!set?.size) continue;
+        const all = colorsForItemNo(itemNo)
+          .map((c) => normalizeHex(c))
+          .filter(Boolean);
+        if (all.length && set.size === all.length && all.every((h) => set.has(h))) {
+          out[itemNo] = "*";
+        } else {
+          out[itemNo] = [...set].sort();
+        }
+      }
+      return JSON.stringify(out, null, 2) + "\n";
+    }
+
+    function updateEditExportPanel() {
+      const ta = document.getElementById("edit-export");
+      if (ta) ta.value = exportEditPicksJson();
+    }
+
+    function toggleEditPick(itemNo, raw) {
+      const n = normalizeHex(raw);
+      if (!n) return;
+      if (!editPicks[itemNo]) editPicks[itemNo] = new Set();
+      if (editPicks[itemNo].has(n)) editPicks[itemNo].delete(n);
+      else editPicks[itemNo].add(n);
+      if (!editPicks[itemNo].size) delete editPicks[itemNo];
+      updateEditExportPanel();
+    }
+
+    function syncEditDotOnChip(chip) {
+      if (!chip) return;
+      const itemNo = chip.dataset.itemNo;
+      const hex = chip.dataset.color;
+      const picked = isEditPicked(itemNo, hex);
+      let dot = chip.querySelector(".edit-dot");
+      if (picked) {
+        if (!dot) {
+          dot = document.createElement("span");
+          dot.className = "edit-dot";
+          dot.setAttribute("aria-label", "Выбрано");
+          chip.appendChild(dot);
+        }
+      } else if (dot) {
+        dot.remove();
+      }
+    }
+
+    function renderColors(colors, itemNo) {
+      const list = colors?.length
+        ? colors
+        : colorDefaults[itemNo]?.length
+          ? colorDefaults[itemNo]
+          : ["#888888"];
+      const chips = list
+        .map((raw) => {
+          const hex = normalizeHex(raw) || String(raw).trim();
+          const css = normalizeHex(raw) || raw;
+          const light = isLightHex(hex);
+          const owned = !editMode && isOwnedColor(itemNo, raw);
+          const picked = editMode && isEditPicked(itemNo, raw);
+          let title = "";
+          if (editMode) title = ' title="Нажмите, чтобы отметить"';
+          else if (owned) title = ' title="Есть в этом цвете"';
+          const dots = [];
+          if (owned) {
+            dots.push(`<span class="collection-dot" aria-label="Есть в этом цвете"></span>`);
+          }
+          if (picked) {
+            dots.push(`<span class="edit-dot" aria-label="Выбрано"></span>`);
+          }
+          const editable = editMode ? " color-chip-editable" : "";
+          return `<span class="color-chip${editable}" data-item-no="${esc(itemNo)}" data-color="${esc(hex)}"${title}><span class="swatch${light ? " swatch-light" : ""}" style="--swatch:${esc(css)}"></span>${dots.join("")}</span>`;
+        })
+        .join("");
+      return `<span class="color-swatches">${chips}</span>`;
+    }
+
+    function packKindLabel(p) {
+      const text = (p.packing || "").toLowerCase();
+      if (text.includes("display")) return "Display box";
+      if (text.includes("window")) return "Window box";
+      const no = String(p.item_no || "").toUpperCase();
+      if (/D[^W]*$/.test(no) || no.endsWith("D")) return "Display box";
+      if (no.endsWith("W")) return "Window box";
+      return "Упаковка";
+    }
+
+    function renderPackaging(packs) {
+      if (!packs?.length) {
+        return `<div class="packaging"><p style="color:var(--muted);margin:0">—</p></div>`;
+      }
+      const items = packs.map((p) => {
+        const urls = (p.images?.length ? p.images : p.image ? [p.image] : []);
+        let img;
+        if (!urls.length) {
+          img = `<div class="empty-img">нет фото</div>`;
+        } else if (urls.length === 1) {
+          img = `<img src="${esc(urls[0])}" alt="${esc(p.item_no || "box")}" loading="lazy">`;
+        } else {
+          img = `<div class="pack-gallery">${urls
+            .map(
+              (u, i) =>
+                `<img src="${esc(u)}" alt="${esc(p.item_no || "box")} ${i + 1}" loading="lazy">`
+            )
+            .join("")}</div>`;
+        }
+        const dl = [
+          metaRow("Item No.", esc(p.item_no)),
+          metaRow("Packing", esc(p.packing)),
+          metaRow("Inner box", esc(p.inner_box)),
+          metaRow("Outer box", esc(p.outer_box)),
+          metaRow("Meas", esc(p.meas)),
+        ].join("");
+        const kind = esc(packKindLabel(p));
+        return `<article class="pack"><h4 class="pack-kind">${kind}</h4><div class="pack-body"><div class="pack-media">${img}</div><dl class="meta">${dl}</dl></div></article>`;
+      }).join("");
+      return `<div class="packaging"><div class="pack-list">${items}</div></div>`;
+    }
+
+    function renderModelImages(p) {
+      const urls = (p.model_images?.length ? p.model_images : p.model_image ? [p.model_image] : []);
+      if (!urls.length) return `<div class="empty-img">нет фото</div>`;
+      const alt = esc(p.title || p.item_no);
+      const primary = urls[0];
+      const extras = urls.slice(1);
+      let html = `<div class="model-view">`;
+      html += `<div class="model-primary-wrap"><img class="model-primary" src="${esc(primary)}" alt="${alt}" loading="lazy" data-default-src="${esc(primary)}" data-default-alt="${alt}"></div>`;
+      if (extras.length) {
+        html += `<div class="model-extras"><div class="model-thumbs">`;
+        html += extras
+          .map(
+            (u, i) =>
+              `<img src="${esc(u)}" alt="${alt} — доп. ${i + 1}" loading="lazy" title="Наведите — в основном окне; клик — увеличить">`
+          )
+          .join("");
+        html += `</div></div>`;
+      }
+      html += `</div>`;
+      return html;
+    }
+
+    function renderCar(entry) {
+      const { id, product: p } = entry;
+      applyColorDefaultsToProduct(p);
+      const img = renderModelImages(p);
+      const colorHtml = renderColors(p.color, p.item_no);
+      const meta = [
+        metaRow("Item No.", `<strong>${esc(p.item_no)}</strong>`),
+        metaRow("Scale", esc(p.scale)),
+        metaRow("Description", esc(p.description)),
+      ].join("");
+      const colorRow = metaRow("Color", colorHtml);
+      const siteUrl = `https://www.kinsmart.com/product_detail.php?id=${encodeURIComponent(id)}`;
+      return `
+        <article class="car" id="id-${esc(id)}">
+          <a class="car-site-id" href="${esc(siteUrl)}" target="_blank" rel="noopener noreferrer">#${esc(id)}</a>
+          <div class="car-media">
+            ${img}
+          </div>
+          <div class="car-body">
+            <h2 class="car-title">${esc(p.title || p.item_no || "—")}</h2>
+            <dl class="meta">${meta}${colorRow}</dl>
+            ${renderPackaging(p.packaging)}
+          </div>
+        </article>`;
+    }
+
+    function matchesQuery(entry, query) {
+      const q = query.trim().toLowerCase();
+      if (!q) return true;
+      const { id, product: p } = entry;
+      if (String(id).toLowerCase().includes(q)) return true;
+      if ((p.item_no || "").toLowerCase().includes(q)) return true;
+      if ((p.title || "").toLowerCase().includes(q)) return true;
+      return false;
+    }
+
+    let classics = [];
+    let applyFilterRef = () => {};
+
+    function setupEditMode() {
+      const btn = document.getElementById("edit-mode-btn");
+      const panel = document.getElementById("edit-panel");
+      const copyBtn = document.getElementById("edit-copy");
+      const list = document.getElementById("list");
+
+      btn.addEventListener("click", () => {
+        editMode = !editMode;
+        btn.classList.toggle("active", editMode);
+        btn.textContent = editMode ? "Готово" : "Коллекция";
+        document.body.classList.toggle("edit-mode-on", editMode);
+        panel.hidden = !editMode;
+        if (editMode) {
+          seedEditPicksFromCollection();
+          updateEditExportPanel();
+        }
+        applyFilterRef();
+      });
+
+      copyBtn.addEventListener("click", async () => {
+        const text = exportEditPicksJson();
+        try {
+          await navigator.clipboard.writeText(text);
+          copyBtn.textContent = "Скопировано";
+          setTimeout(() => {
+            copyBtn.textContent = "Копировать";
+          }, 1600);
+        } catch {
+          const ta = document.getElementById("edit-export");
+          ta.focus();
+          ta.select();
+          copyBtn.textContent = "Выделено — Ctrl+C";
+        }
+      });
+
+      list.addEventListener("click", (e) => {
+        if (!editMode) return;
+        const chip = e.target.closest(".color-chip-editable");
+        if (!chip) return;
+        e.preventDefault();
+        e.stopPropagation();
+        toggleEditPick(chip.dataset.itemNo, chip.dataset.color);
+        syncEditDotOnChip(chip);
+      });
+    }
+
+    function setupLightbox() {
+      const lightbox = document.getElementById("lightbox");
+      const lightboxImg = document.getElementById("lightbox-img");
+      const closeBtn = document.getElementById("lightbox-close");
+      const prevBtn = document.getElementById("lightbox-prev");
+      const nextBtn = document.getElementById("lightbox-next");
+      const counter = document.getElementById("lightbox-counter");
+      const list = document.getElementById("list");
+
+      let gallery = [];
+      let index = 0;
+
+      function galleryForCar(car, clickedImg) {
+        const view = car.querySelector(".model-view");
+        const modelImgs = view
+          ? [
+              ...view.querySelectorAll(".model-primary, .model-thumbs img"),
+            ]
+          : [...car.querySelectorAll(".car-media .model-primary")];
+        const imgs = [...modelImgs, ...car.querySelectorAll(".packaging img")];
+        const seen = new Set();
+        const items = [];
+        for (const im of imgs) {
+          const src = im.currentSrc || im.src;
+          if (!src || seen.has(src)) continue;
+          seen.add(src);
+          items.push({ src, alt: im.alt || "" });
+        }
+        const clickSrc = clickedImg.currentSrc || clickedImg.src;
+        const start = items.findIndex((g) => g.src === clickSrc);
+        return { items, start: start >= 0 ? start : 0 };
+      }
+
+      function showSlide(i) {
+        if (!gallery.length) return;
+        index = ((i % gallery.length) + gallery.length) % gallery.length;
+        const slide = gallery[index];
+        lightboxImg.src = slide.src;
+        lightboxImg.alt = slide.alt;
+        const multi = gallery.length > 1;
+        prevBtn.disabled = !multi;
+        nextBtn.disabled = !multi;
+        prevBtn.hidden = !multi;
+        nextBtn.hidden = !multi;
+        if (multi) {
+          counter.textContent = `${index + 1} / ${gallery.length}`;
+          counter.hidden = false;
+        } else {
+          counter.hidden = true;
+        }
+      }
+
+      function openLightbox(items, startIndex) {
+        gallery = items;
+        index = startIndex;
+        lightbox.hidden = false;
+        lightbox.classList.add("open");
+        lightbox.setAttribute("aria-hidden", "false");
+        document.body.style.overflow = "hidden";
+        showSlide(index);
+        closeBtn.focus();
+      }
+
+      function closeLightbox() {
+        lightbox.classList.remove("open");
+        lightbox.hidden = true;
+        lightbox.setAttribute("aria-hidden", "true");
+        lightboxImg.removeAttribute("src");
+        gallery = [];
+        index = 0;
+        counter.hidden = true;
+        document.body.style.overflow = "";
+      }
+
+      function step(delta) {
+        if (gallery.length < 2) return;
+        showSlide(index + delta);
+      }
+
+      function setPrimaryFromThumb(thumb) {
+        const view = thumb.closest(".model-view");
+        const primary = view?.querySelector(".model-primary");
+        if (!primary) return;
+        primary.src = thumb.currentSrc || thumb.src;
+        primary.alt = thumb.alt;
+        view.querySelectorAll(".model-thumbs img").forEach((t) => {
+          t.classList.toggle("active", t === thumb);
+        });
+      }
+
+      function resetPrimaryImage(view) {
+        if (!view) return;
+        const primary = view.querySelector(".model-primary");
+        if (!primary) return;
+        const defSrc = primary.dataset.defaultSrc;
+        if (defSrc) primary.src = defSrc;
+        if (primary.dataset.defaultAlt) primary.alt = primary.dataset.defaultAlt;
+        view.querySelectorAll(".model-thumbs img").forEach((t) => t.classList.remove("active"));
+      }
+
+      list.addEventListener("mouseover", (e) => {
+        const thumb = e.target.closest(".model-thumbs img");
+        if (!thumb) return;
+        setPrimaryFromThumb(thumb);
+      });
+
+      list.addEventListener("mouseout", (e) => {
+        const extras = e.target.closest(".model-extras");
+        if (!extras || extras.contains(e.relatedTarget)) return;
+        resetPrimaryImage(extras.closest(".model-view"));
+      });
+
+      list.addEventListener("click", (e) => {
+        const thumb = e.target.closest(".model-thumbs img");
+        if (thumb?.src) {
+          e.preventDefault();
+          const car = thumb.closest(".car");
+          if (!car) return;
+          const { items, start } = galleryForCar(car, thumb);
+          openLightbox(items, start);
+          return;
+        }
+
+        const img = e.target.closest(".car-media .model-primary, .packaging img");
+        if (!img?.src) return;
+        const car = img.closest(".car");
+        if (!car) return;
+        e.preventDefault();
+        const { items, start } = galleryForCar(car, img);
+        openLightbox(items, start);
+      });
+
+      closeBtn.addEventListener("click", closeLightbox);
+      prevBtn.addEventListener("click", (e) => {
+        e.stopPropagation();
+        step(-1);
+      });
+      nextBtn.addEventListener("click", (e) => {
+        e.stopPropagation();
+        step(1);
+      });
+      lightbox.addEventListener("click", (e) => {
+        if (e.target === lightbox) closeLightbox();
+      });
+      document.addEventListener("keydown", (e) => {
+        if (!lightbox.classList.contains("open")) return;
+        if (e.key === "Escape") closeLightbox();
+        else if (e.key === "ArrowLeft") {
+          e.preventDefault();
+          step(-1);
+        } else if (e.key === "ArrowRight") {
+          e.preventDefault();
+          step(1);
+        }
+      });
+    }
+
+    async function init() {
+      const status = document.getElementById("status");
+      const list = document.getElementById("list");
+      const countEl = document.getElementById("count");
+      const search = document.getElementById("search");
+
+      try {
+        const [collRes, modelsRes] = await Promise.all([
+          fetch("my-collection.json", { cache: "no-store" }),
+          fetch("models.json", { cache: "no-store" }),
+        ]);
+        if (collRes.ok) collection = await collRes.json();
+        if (!modelsRes.ok) throw new Error("HTTP models " + modelsRes.status);
+        const offline = await modelsRes.json();
+        classics = Object.entries(offline)
+          .map(([id, product]) => {
+            const c = product._classic || {};
+            const p = { ...product };
+            delete p._classic;
+            return {
+              id,
+              product: p,
+              reason: c.reason || "",
+              sortYear: c.sortYear ?? 9000,
+            };
+          })
+          .sort(
+            (a, b) =>
+              a.sortYear - b.sortYear || Number(a.id) - Number(b.id)
+          );
+      } catch (e) {
+        status.className = "error";
+        status.textContent = "Не удалось загрузить данные.";
+        countEl.textContent = "";
+        console.error(e);
+        return;
+      }
+      search.disabled = false;
+
+      function syncSearchToUrl(value) {
+        const url = new URL(window.location.href);
+        const trimmed = value.trim();
+        if (trimmed) url.searchParams.set("s", value);
+        else url.searchParams.delete("s");
+        const next = url.pathname + url.search + url.hash;
+        const current =
+          window.location.pathname + window.location.search + window.location.hash;
+        if (next !== current) history.replaceState(null, "", next);
+      }
+
+      const initialSearch = new URLSearchParams(window.location.search).get("s");
+      if (initialSearch != null) search.value = initialSearch;
+
+      function applyFilter() {
+        const q = search.value;
+        syncSearchToUrl(q);
+        const filtered = classics.filter((e) => matchesQuery(e, q));
+        if (!filtered.length) {
+          list.innerHTML = q.trim()
+            ? `<p class="no-results">Ничего не найдено по «${esc(q.trim())}»</p>`
+            : `<p class="no-results">Классических моделей не найдено</p>`;
+        } else {
+          list.innerHTML = filtered.map(renderCar).join("");
+        }
+        countEl.textContent = q.trim()
+          ? `${filtered.length} из ${classics.length}`
+          : `${classics.length}`;
+      }
+
+      applyFilterRef = applyFilter;
+      search.addEventListener("input", applyFilter);
+      search.addEventListener("search", applyFilter);
+      setupLightbox();
+      setupEditMode();
+      applyFilter();
+      status.textContent = "";
+    }
+
+    init();
+  </script>
+</body>
+</html>

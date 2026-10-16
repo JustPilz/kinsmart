@@ -1,0 +1,3256 @@
+{
+  "55": {
+    "title": "1950 Chevrolet Subuarban School Bus",
+    "model_image": "models/KT5005/KT5005-photo.jpg",
+    "scale": "1:36",
+    "color": [
+      "#FF9E00"
+    ],
+    "item_no": "KT5005",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5005D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.2 cu.ft.",
+        "image": "models/KT5005/KT5005-tray.jpg",
+        "images": [
+          "models/KT5005/KT5005-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5005W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5005/KT5005-box.jpg",
+        "images": [
+          "models/KT5005/KT5005-box.jpg",
+          "models/KT5005/KT5005-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5005/KT5005-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1950
+    }
+  },
+  "56": {
+    "title": "1950 Chevrolet Suburban Carryall",
+    "model_image": "models/KT5006/KT5006-photo.jpg",
+    "scale": "1:36",
+    "color": [
+      "#75223D",
+      "#343C5E",
+      "#37636F",
+      "#000000"
+    ],
+    "item_no": "KT5006",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5006D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.2 cu.ft.",
+        "image": "models/KT5006/KT5006-tray.jpg",
+        "images": [
+          "models/KT5006/KT5006-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5006W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5006/KT5006-box.jpg",
+        "images": [
+          "models/KT5006/KT5006-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5006/KT5006-photo.jpg",
+      "models/KT5006/KT5006-photo-3.webp",
+      "models/KT5006/KT5006-photo-4.webp",
+      "models/KT5006/KT5006-photo-5.webp",
+      "models/KT5006/KT5006-photo-6.webp",
+      "models/KT5006/KT5006-photo-7.webp",
+      "models/KT5006/KT5006-photo-8.webp",
+      "models/KT5006/KT5006-photo-10.webp",
+      "models/KT5006/KT5006-photo-11.webp",
+      "models/KT5006/KT5006-photo-12.webp",
+      "models/KT5006/KT5006-photo-13.webp",
+      "models/KT5006/KT5006-photo-14.webp",
+      "models/KT5006/KT5006-photo-15.webp",
+      "models/KT5006/KT5006-photo-18.webp",
+      "models/KT5006/KT5006-photo-19.webp",
+      "models/KT5006/KT5006-photo-20.webp",
+      "models/KT5006/KT5006-photo-21.webp",
+      "models/KT5006/KT5006-photo-22.webp",
+      "models/KT5006/KT5006-photo-23.webp",
+      "models/KT5006/KT5006-photo-25.webp",
+      "models/KT5006/KT5006-photo-26.webp",
+      "models/KT5006/KT5006-photo-27.webp",
+      "models/KT5006/KT5006-photo-28.webp",
+      "models/KT5006/KT5006-photo-29.webp",
+      "models/KT5006/KT5006-photo-30.webp",
+      "models/KT5006/KT5006-photo-31.webp"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1950
+    }
+  },
+  "68": {
+    "title": "1953 Chevrolet 3100 Wrecker",
+    "model_image": "models/KT5033/KT5033-photo.jpg",
+    "scale": "1:38",
+    "color": [
+      "#E70000",
+      "#0000BF",
+      "#002800",
+      "#000000"
+    ],
+    "item_no": "KT5033",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5033D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "4.7 cu.ft.",
+        "image": "models/KT5033/KT5033-tray.jpg",
+        "images": [
+          "models/KT5033/KT5033-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5033W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5033/KT5033-box.jpg",
+        "images": [
+          "models/KT5033/KT5033-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5033/KT5033-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1953
+    }
+  },
+  "79": {
+    "title": "1967 Volkswagen Classical Beetle",
+    "model_image": "models/KT5057/KT5057-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#E70000",
+      "#0021D7",
+      "#FFFF08",
+      "#000000"
+    ],
+    "item_no": "KT5057",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5057D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.9 cu.ft.",
+        "image": "models/KT5057/KT5057-tray.jpg",
+        "images": [
+          "models/KT5057/KT5057-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5057W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5057/KT5057-box.jpg",
+        "images": [
+          "models/KT5057/KT5057-box.jpg",
+          "models/KT5057/KT5057-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5057/KT5057-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1967
+    }
+  },
+  "81": {
+    "title": "1967 Volkswagen Classical Beetle w/ printing",
+    "model_image": "models/KT5057F/KT5057F-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#E70000",
+      "#0021D7",
+      "#FFFF08",
+      "#000000"
+    ],
+    "item_no": "KT5057F",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5057DF",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.9 cu.ft.",
+        "image": "models/KT5057F/KT5057F-tray.jpg",
+        "images": [
+          "models/KT5057F/KT5057F-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5057WF",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5057F/KT5057F-box.jpg",
+        "images": [
+          "models/KT5057F/KT5057F-box.jpg",
+          "models/KT5057F/KT5057F-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5057F/KT5057F-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1967
+    }
+  },
+  "84": {
+    "title": "1967 Volkswagen Classical Beetle w/ wooden surfboard",
+    "model_image": "models/KT5057FS1/KT5057FS1-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#E70000",
+      "#0021D7",
+      "#FFFF08",
+      "#000000"
+    ],
+    "item_no": "KT5057FS1",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5057DFS1",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.2 cu.ft.",
+        "image": "models/KT5057FS1/KT5057FS1-tray.jpg",
+        "images": [
+          "models/KT5057FS1/KT5057FS1-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5057WFS1",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5057FS1/KT5057FS1-box.jpg",
+        "images": [
+          "models/KT5057FS1/KT5057FS1-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5057FS1/KT5057FS1-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "год 1967",
+      "sortYear": 1967
+    }
+  },
+  "85": {
+    "title": "1967 Volkswagen Classical Beetle (Police)",
+    "model_image": "models/KT5057P/KT5057P-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#000000"
+    ],
+    "item_no": "KT5057P",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5057DP",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.2 cu.ft.",
+        "image": "models/KT5057P/KT5057P-tray.jpg",
+        "images": [
+          "models/KT5057P/KT5057P-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5057WP",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5057P/KT5057P-box.jpg",
+        "images": [
+          "models/KT5057P/KT5057P-box.jpg",
+          "models/KT5057P/KT5057P-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5057P/KT5057P-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1967
+    }
+  },
+  "90": {
+    "title": "1962 Volkswagen Classical Bus",
+    "model_image": "models/KT5060/KT5060-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#BF0000",
+      "#FFFF20",
+      "#00504E",
+      "#870000"
+    ],
+    "item_no": "KT5060",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5060D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.9 cu.ft.",
+        "image": "models/KT5060/KT5060-tray.jpg",
+        "images": [
+          "models/KT5060/KT5060-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5060W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5060/KT5060-box.jpg",
+        "images": [
+          "models/KT5060/KT5060-box.jpg",
+          "models/KT5060/KT5060-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5060/KT5060-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1962
+    }
+  },
+  "92": {
+    "title": "1962 Volskwagen Classical Bus w/ printing",
+    "model_image": "models/KT5060F/KT5060F-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#BF0000",
+      "#FFFF20",
+      "#00504E",
+      "#870000"
+    ],
+    "item_no": "KT5060F",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5060DF",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "4.4 cu.ft.",
+        "image": "models/KT5060F/KT5060F-tray.jpg",
+        "images": [
+          "models/KT5060F/KT5060F-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5060WF",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5060F/KT5060F-box.jpg",
+        "images": [
+          "models/KT5060F/KT5060F-box.jpg",
+          "models/KT5060F/KT5060F-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5060F/KT5060F-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1962
+    }
+  },
+  "96": {
+    "title": "1962 Volkswagen Classical Bus w/ wooden surfboard",
+    "model_image": "models/KT5060FS1/KT5060FS1-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#BF0000",
+      "#FFFF20",
+      "#00504E",
+      "#870000"
+    ],
+    "item_no": "KT5060FS1",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5060DFS1",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "4.4 cu.ft.",
+        "image": "models/KT5060FS1/KT5060FS1-tray.jpg",
+        "images": [
+          "models/KT5060FS1/KT5060FS1-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5060WFS1",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5060FS1/KT5060FS1-box.jpg",
+        "images": [
+          "models/KT5060FS1/KT5060FS1-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5060FS1/KT5060FS1-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "год 1962",
+      "sortYear": 1962
+    }
+  },
+  "97": {
+    "title": "1962 Volkswagen Classical Bus w/ surfboard",
+    "model_image": "models/KT5060FS/KT5060FS-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#BF0000",
+      "#FFFF20",
+      "#00504E",
+      "#870000"
+    ],
+    "item_no": "KT5060FS",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5060DFS",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "4.4 cu.ft.",
+        "image": "models/KT5060FS/KT5060FS-tray.jpg",
+        "images": [
+          "models/KT5060FS/KT5060FS-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5060WFS",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5060FS/KT5060FS-box.jpg",
+        "images": [
+          "models/KT5060FS/KT5060FS-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5060FS/KT5060FS-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "год 1962",
+      "sortYear": 1962
+    }
+  },
+  "130": {
+    "title": "1957 Chevrolet Bel Air",
+    "model_image": "models/KT5313/KT5313-photo.jpg",
+    "scale": "1:40",
+    "color": [
+      "#EF000F",
+      "#F7FF00",
+      "#78DBFF",
+      "#000000"
+    ],
+    "item_no": "KT5313",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5313D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.5 cu.ft.",
+        "image": "models/KT5313/KT5313-tray.jpg",
+        "images": [
+          "models/KT5313/KT5313-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5313W",
+        "packing": "1 pc in a winow box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5313/KT5313-box.jpg",
+        "images": [
+          "models/KT5313/KT5313-box.jpg",
+          "models/KT5313/KT5313-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5313/KT5313-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1957
+    }
+  },
+  "132": {
+    "title": "1957 Chevrolet Corvette",
+    "model_image": "models/KT5316/KT5316-photo.jpg",
+    "scale": "1:34",
+    "color": [
+      "#EF000F",
+      "#FFFFFFF",
+      "#78DBFF",
+      "#000000"
+    ],
+    "item_no": "KT5316",
+    "description": "5'' 1957 Chevrolet Corvette",
+    "packaging": [
+      {
+        "item_no": "KT5316D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.6 cu.ft.",
+        "image": "models/KT5316/KT5316-tray.jpg",
+        "images": [
+          "models/KT5316/KT5316-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5316W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5316/KT5316-box.jpg",
+        "images": [
+          "models/KT5316/KT5316-box.jpg",
+          "models/KT5316/KT5316-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5316/KT5316-photo.jpg",
+      "models/KT5316/KT5316-photo-2.jpg",
+      "models/KT5316/KT5316-photo-3.jpg",
+      "models/KT5316/KT5316-photo-4.jpg",
+      "models/KT5316/KT5316-photo-8.webp",
+      "models/KT5316/KT5316-photo-9.webp",
+      "models/KT5316/KT5316-photo-10.webp",
+      "models/KT5316/KT5316-photo-11.webp"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1957
+    }
+  },
+  "136": {
+    "title": "1955 Ford Thunderbird",
+    "model_image": "models/KT5319/KT5319-photo.jpg",
+    "scale": "1:36",
+    "color": [
+      "#EF000F",
+      "#F7FF00",
+      "#78DBFF",
+      "#000000"
+    ],
+    "item_no": "KT5319",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5319D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.7 cu.ft.",
+        "image": "models/KT5319/KT5319-tray.jpg",
+        "images": [
+          "models/KT5319/KT5319-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5319W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5319/KT5319-box.jpg",
+        "images": [
+          "models/KT5319/KT5319-box.jpg",
+          "models/KT5319/KT5319-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5319/KT5319-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1955
+    }
+  },
+  "139": {
+    "title": "1965 Shelby Cobra 427 S/C",
+    "model_image": "models/KT5322/KT5322-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#D70000",
+      "#FFFF18",
+      "#FFFFFF",
+      "#0011C7"
+    ],
+    "item_no": "KT5322",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5322D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.7 cu.ft.",
+        "image": "models/KT5322/KT5322-tray.jpg",
+        "images": [
+          "models/KT5322/KT5322-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5322W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5322/KT5322-box.jpg",
+        "images": [
+          "models/KT5322/KT5322-box.jpg",
+          "models/KT5322/KT5322-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5322/KT5322-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1965
+    }
+  },
+  "140": {
+    "title": "1957 Chevrolet Bel Air (Police)",
+    "model_image": "models/KT5323/KT5323-photo.jpg",
+    "scale": "1:40",
+    "color": [
+      "#000000"
+    ],
+    "item_no": "KT5323",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5323D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.9 cu.ft.",
+        "image": "models/KT5323/KT5323-tray.jpg",
+        "images": [
+          "models/KT5323/KT5323-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5323W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5323/KT5323-box.jpg",
+        "images": [
+          "models/KT5323/KT5323-box.jpg",
+          "models/KT5323/KT5323-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5323/KT5323-photo.jpg",
+      "models/KT5323/KT5323-photo-2.webp",
+      "models/KT5323/KT5323-photo-3.webp",
+      "models/KT5323/KT5323-photo-4.webp",
+      "models/KT5323/KT5323-photo-5.webp",
+      "models/KT5323/KT5323-photo-6.webp",
+      "models/KT5323/KT5323-photo-7.webp",
+      "models/KT5323/KT5323-photo-8.webp",
+      "models/KT5323/KT5323-photo-9.webp"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1957
+    }
+  },
+  "141": {
+    "title": "1957 Chevrolet Bel Air (Fire Chief)",
+    "model_image": "models/KT5325/KT5325-photo.jpg",
+    "scale": "1:40",
+    "color": [
+      "#EF0000"
+    ],
+    "item_no": "KT5325",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5325D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.9 cu.ft.",
+        "image": "models/KT5325/KT5325-tray.jpg",
+        "images": [
+          "models/KT5325/KT5325-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5325W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5325/KT5325-box.jpg",
+        "images": [
+          "models/KT5325/KT5325-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5325/KT5325-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1957
+    }
+  },
+  "147": {
+    "title": "1955 Chevy Stepside Pick-up",
+    "model_image": "models/KT5330/KT5330-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#E70200",
+      "#FF3500",
+      "#FFFFB7",
+      "#001FEF"
+    ],
+    "item_no": "KT5330",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5330D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.0 cu.ft.",
+        "image": "models/KT5330/KT5330-tray.jpg",
+        "images": [
+          "models/KT5330/KT5330-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5330W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5330/KT5330-box.jpg",
+        "images": [
+          "models/KT5330/KT5330-box.jpg",
+          "models/KT5330/KT5330-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5330/KT5330-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1955
+    }
+  },
+  "149": {
+    "title": "1955 Chevy Stepside Pick-up (Police)",
+    "model_image": "models/KT5330P/KT5330P-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#000000"
+    ],
+    "item_no": "KT5330P",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5330DP",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "4.7 cu.ft.",
+        "image": "models/KT5330P/KT5330P-tray.jpg",
+        "images": [
+          "models/KT5330P/KT5330P-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5330WP",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5330P/KT5330P-box.jpg",
+        "images": [
+          "models/KT5330P/KT5330P-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5330P/KT5330P-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1955
+    }
+  },
+  "150": {
+    "title": "1955 Chevy Stepside Pick-up w/ wooden surfboard",
+    "model_image": "models/KT5330S1/KT5330S1-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#DF0000",
+      "#F74700",
+      "#FFECB7",
+      "#0029DF"
+    ],
+    "item_no": "KT5330S1",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5330DS1",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.4 cu.ft.",
+        "image": "models/KT5330S1/KT5330S1-tray.jpg",
+        "images": [
+          "models/KT5330S1/KT5330S1-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5330WS1",
+        "packing": "1 pc in a window bpx",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5330S1/KT5330S1-box.jpg",
+        "images": [
+          "models/KT5330S1/KT5330S1-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5330S1/KT5330S1-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "год 1955",
+      "sortYear": 1955
+    }
+  },
+  "151": {
+    "title": "1955 Chevy Stepside Pick-up (Muddy)",
+    "model_image": "models/KT5330Y/KT5330Y-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#E70200",
+      "#FF3500",
+      "#FFFFB7",
+      "#001FEF"
+    ],
+    "item_no": "KT5330Y",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5330DY",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.0 cu.ft.",
+        "image": "models/KT5330Y/KT5330Y-tray.jpg",
+        "images": [
+          "models/KT5330Y/KT5330Y-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5330WY",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5330Y/KT5330Y-box.jpg",
+        "images": [
+          "models/KT5330Y/KT5330Y-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5330Y/KT5330Y-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1955
+    }
+  },
+  "152": {
+    "title": "1955 Chevy Nomad",
+    "model_image": "models/KT5331/KT5331-photo.jpg",
+    "scale": "1:40",
+    "color": [
+      "#DF0019",
+      "#B72100",
+      "#7AB700",
+      "#004BE7"
+    ],
+    "item_no": "KT5331",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5331D",
+        "packing": "12 pcs in a dispaly box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.8 cu.ft.",
+        "image": "models/KT5331/KT5331-tray.jpg",
+        "images": [
+          "models/KT5331/KT5331-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5331W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5331/KT5331-box.jpg",
+        "images": [
+          "models/KT5331/KT5331-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5331/KT5331-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1955
+    }
+  },
+  "153": {
+    "title": "1955 Chevy Nomad w/ roof color",
+    "model_image": "models/KT5331F/KT5331F-photo.jpg",
+    "scale": "1:40",
+    "color": [
+      "#DF0019",
+      "#B72100",
+      "#7AB700",
+      "#004BE7"
+    ],
+    "item_no": "KT5331F",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5331DF",
+        "packing": "12 pcs in a display box w/ roof color",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.8 cu.ft.",
+        "image": "models/KT5331F/KT5331F-tray.jpg",
+        "images": [
+          "models/KT5331F/KT5331F-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5331WF",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5331F/KT5331F-box.jpg",
+        "images": [
+          "models/KT5331F/KT5331F-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5331F/KT5331F-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1955
+    }
+  },
+  "154": {
+    "title": "1932 Ford 3-Window Coupe",
+    "model_image": "models/KT5332/KT5332-photo.jpg",
+    "scale": "1:34",
+    "color": [
+      "#EF0029",
+      "#1A455A",
+      "#F1C246",
+      "#870000"
+    ],
+    "item_no": "KT5332",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5332D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.3 cu.ft.",
+        "image": "models/KT5332/KT5332-tray.jpg",
+        "images": [
+          "models/KT5332/KT5332-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5332W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5332/KT5332-box.jpg",
+        "images": [
+          "models/KT5332/KT5332-box.jpg",
+          "models/KT5332/KT5332-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5332/KT5332-photo.jpg",
+      "models/KT5332/KT5332-photo-2.jpg",
+      "models/KT5332/KT5332-photo-3.jpg",
+      "models/KT5332/KT5332-photo-4.jpg",
+      "models/KT5332/KT5332-photo-5.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1932
+    }
+  },
+  "162": {
+    "title": "1953 Cadillac Series 62 Coupe",
+    "model_image": "models/KT5339/KT5339-photo.jpg",
+    "scale": "1:43",
+    "color": [
+      "#F70000",
+      "#FF97EA",
+      "#FFFF87",
+      "#000000"
+    ],
+    "item_no": "KT5339",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5339D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.5 cu.ft.",
+        "image": "models/KT5339/KT5339-tray.jpg",
+        "images": [
+          "models/KT5339/KT5339-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5339W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.75 cu.ft.",
+        "image": "models/KT5339/KT5339-box.jpg",
+        "images": [
+          "models/KT5339/KT5339-box.jpg",
+          "models/KT5339/KT5339-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5339/KT5339-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1953
+    }
+  },
+  "164": {
+    "title": "1967 Chevrolet Camaro Z/28",
+    "model_image": "models/KT5341/KT5341-photo.jpg",
+    "scale": "1:37",
+    "color": [
+      "#EF000F",
+      "#FFE028",
+      "#0000BF",
+      "#000000"
+    ],
+    "item_no": "KT5341",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5341D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.4 cu.ft.",
+        "image": "models/KT5341/KT5341-tray.jpg",
+        "images": [
+          "models/KT5341/KT5341-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5341W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.75 cu.ft.",
+        "image": "models/KT5341/KT5341-box.jpg",
+        "images": [
+          "models/KT5341/KT5341-box.jpg",
+          "models/KT5341/KT5341-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5341/KT5341-photo.jpg",
+      "models/KT5341/KT5341-photo-2.jpg",
+      "models/KT5341/KT5341-photo-3.jpg",
+      "models/KT5341/KT5341-photo-4.jpg",
+      "models/KT5341/KT5341-photo-8.webp",
+      "models/KT5341/KT5341-photo-9.webp"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1967
+    }
+  },
+  "165": {
+    "title": "1967 Chevrolet Camaro Z/28 (Police)",
+    "model_image": "models/KT5341P/KT5341P-photo.jpg",
+    "scale": "1:37",
+    "color": [
+      "#000000"
+    ],
+    "item_no": "KT5341P",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5341DP",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.7 cu.ft.",
+        "image": "models/KT5341P/KT5341P-tray.jpg",
+        "images": [
+          "models/KT5341P/KT5341P-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5341WP",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.75 cu.ft.",
+        "image": "models/KT5341P/KT5341P-box.jpg",
+        "images": [
+          "models/KT5341P/KT5341P-box.jpg",
+          "models/KT5341P/KT5341P-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5341P/KT5341P-photo.jpg",
+      "models/KT5341P/KT5341P-photo-2.jpg",
+      "models/KT5341P/KT5341P-photo-3.webp",
+      "models/KT5341P/KT5341P-photo-4.webp",
+      "models/KT5341P/KT5341P-photo-5.webp",
+      "models/KT5341P/KT5341P-photo-6.webp",
+      "models/KT5341P/KT5341P-photo-7.webp",
+      "models/KT5341P/KT5341P-photo-8.webp"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1967
+    }
+  },
+  "170": {
+    "title": "1954 Mercedes-Benz 300SL",
+    "model_image": "models/KT5346/KT5346-photo.jpg",
+    "scale": "1:36",
+    "color": [
+      "#E70000",
+      "#C7C7C7",
+      "#ECE4C9",
+      "#000000"
+    ],
+    "item_no": "KT5346",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5346D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.5 cu.ft.",
+        "image": "models/KT5346/KT5346-tray.jpg",
+        "images": [
+          "models/KT5346/KT5346-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5346W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.75 cu.ft.",
+        "image": "models/KT5346/KT5346-box.jpg",
+        "images": [
+          "models/KT5346/KT5346-box.jpg",
+          "models/KT5346/KT5346-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5346/KT5346-photo.jpg",
+      "models/KT5346/KT5346-photo-2.jpg",
+      "models/KT5346/KT5346-photo-3.jpg",
+      "models/KT5346/KT5346-photo-3-1.jpg",
+      "models/KT5346/KT5346-photo-3-2.jpg",
+      "models/KT5346/KT5346-photo-4.jpg",
+      "models/KT5346/KT5346-photo-4-1.jpg",
+      "models/KT5346/KT5346-photo-4-2.jpg",
+      "models/KT5346/KT5346-photo-4-3.jpg",
+      "models/KT5346/KT5346-photo-4-4.jpg",
+      "models/KT5346/KT5346-photo-5.jpg",
+      "models/KT5346/KT5346-photo-5-1.jpg",
+      "models/KT5346/KT5346-photo-5-2.jpg",
+      "models/KT5346/KT5346-photo-5-3.jpg",
+      "models/KT5346/KT5346-photo-9.webp",
+      "models/KT5346/KT5346-photo-10.webp",
+      "models/KT5346/KT5346-photo-11.webp"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1954
+    }
+  },
+  "175": {
+    "title": "1964 1/2 Ford Mustang",
+    "model_image": "models/KT5351/KT5351-photo.jpg",
+    "scale": "1:36",
+    "color": [
+      "#CF0000",
+      "#0000E7",
+      "#FFFFAF",
+      "#000000"
+    ],
+    "item_no": "KT5351",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5351D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.5 cu.ft.",
+        "image": "models/KT5351/KT5351-tray.jpg",
+        "images": [
+          "models/KT5351/KT5351-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5351W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.75 cu.ft.",
+        "image": "models/KT5351/KT5351-box.jpg",
+        "images": [
+          "models/KT5351/KT5351-box.jpg",
+          "models/KT5351/KT5351-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5351/KT5351-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1964
+    }
+  },
+  "183": {
+    "title": "1963 Corvette Sting Ray",
+    "model_image": "models/KT5358/KT5358-photo.jpg",
+    "scale": "1:36",
+    "color": [
+      "#F70017",
+      "#FFF508",
+      "#204FFF",
+      "#C7C7C7"
+    ],
+    "item_no": "KT5358",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5358D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.5 cu.ft.",
+        "image": "models/KT5358/KT5358-tray.jpg",
+        "images": [
+          "models/KT5358/KT5358-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5358W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5358/KT5358-box.jpg",
+        "images": [
+          "models/KT5358/KT5358-box.jpg",
+          "models/KT5358/KT5358-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5358/KT5358-photo.jpg",
+      "models/KT5358/KT5358-photo-2.webp",
+      "models/KT5358/KT5358-photo-3.webp",
+      "models/KT5358/KT5358-photo-4.webp",
+      "models/KT5358/KT5358-photo-5.webp",
+      "models/KT5358/KT5358-photo-6.webp",
+      "models/KT5358/KT5358-photo-7.webp",
+      "models/KT5358/KT5358-photo-8.webp",
+      "models/KT5358/KT5358-photo-9.webp"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1963
+    }
+  },
+  "186": {
+    "title": "1957 Chevrolet Bel Air (Taxi)",
+    "model_image": "models/KT5360/KT5360-photo.jpg",
+    "scale": "1:40",
+    "color": [
+      "#FFE210"
+    ],
+    "item_no": "KT5360",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5360D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.9 cu.ft.",
+        "image": "models/KT5360/KT5360-tray.jpg",
+        "images": [
+          "models/KT5360/KT5360-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5360W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.75 cu.ft.",
+        "image": "models/KT5360/KT5360-box.jpg",
+        "images": [
+          "models/KT5360/KT5360-box.jpg",
+          "models/KT5360/KT5360-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5360/KT5360-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1957
+    }
+  },
+  "204": {
+    "title": "1967 Shelby GT500",
+    "model_image": "models/KT5372/KT5372-photo.jpg",
+    "scale": "1:38",
+    "color": [
+      "#E70000",
+      "#0800E7",
+      "#FFFFFF",
+      "#575757"
+    ],
+    "item_no": "KT5372",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5372D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.5 cu.ft.",
+        "image": "models/KT5372/KT5372-tray.jpg",
+        "images": [
+          "models/KT5372/KT5372-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5372W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.75 cu.ft.",
+        "image": "models/KT5372/KT5372-box.jpg",
+        "images": [
+          "models/KT5372/KT5372-box.jpg",
+          "models/KT5372/KT5372-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5372/KT5372-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1967
+    }
+  },
+  "205": {
+    "title": "1967 Volkswagen Classical Beetle (Color Door)",
+    "model_image": "models/KT5373/KT5373-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#CF0000",
+      "#FF6718",
+      "#081DFF",
+      "#000000"
+    ],
+    "item_no": "KT5373",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5373D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.9 cu.ft.",
+        "image": "models/KT5373/KT5373-tray.jpg",
+        "images": [
+          "models/KT5373/KT5373-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5373W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5373/KT5373-box.jpg",
+        "images": [
+          "models/KT5373/KT5373-box.jpg",
+          "models/KT5373/KT5373-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5373/KT5373-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1967
+    }
+  },
+  "206": {
+    "title": "1967 Volkswagen Classical Beetle w/ printing (Pastel Color)",
+    "model_image": "models/KT5375F/KT5375F-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#68CBFF",
+      "#FFA7FF",
+      "#FFFF87",
+      "#FFFF20"
+    ],
+    "item_no": "KT5375F",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5375DF",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.9 cu.ft.",
+        "image": "models/KT5375F/KT5375F-tray.jpg",
+        "images": [
+          "models/KT5375F/KT5375F-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5375WF",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5375F/KT5375F-box.jpg",
+        "images": [
+          "models/KT5375F/KT5375F-box.jpg",
+          "models/KT5375F/KT5375F-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5375F/KT5375F-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1967
+    }
+  },
+  "207": {
+    "title": "1967 Volkswagen Classical Beetle (Ivory Door)",
+    "model_image": "models/KT5375Y/KT5375Y-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#78DBFF",
+      "#60FF70",
+      "#F49FFF",
+      "#FFFF38"
+    ],
+    "item_no": "KT5375Y",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5375DY",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.9 cu.ft.",
+        "image": "models/KT5375Y/KT5375Y-tray.jpg",
+        "images": [
+          "models/KT5375Y/KT5375Y-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5375WY",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5375Y/KT5375Y-box.jpg",
+        "images": [
+          "models/KT5375Y/KT5375Y-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5375Y/KT5375Y-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1967
+    }
+  },
+  "208": {
+    "title": "1962 Volkswagen Classical Bus (Black Top)",
+    "model_image": "models/KT5376/KT5376-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#BF0000",
+      "#FFFF30",
+      "#004ECF",
+      "#FF4A30"
+    ],
+    "item_no": "KT5376",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5376D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.9 cu.ft.",
+        "image": "models/KT5376/KT5376-tray.jpg",
+        "images": [
+          "models/KT5376/KT5376-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5376W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5376/KT5376-box.jpg",
+        "images": [
+          "models/KT5376/KT5376-box.jpg",
+          "models/KT5376/KT5376-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5376/KT5376-photo.jpg",
+      "models/KT5376/KT5376-photo-2.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1962
+    }
+  },
+  "209": {
+    "title": "1962 Volkswagen Classical Bus (Ivory Top)",
+    "model_image": "models/KT5377/KT5377-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#BF0000",
+      "#FFFF30",
+      "#004ECF",
+      "#FF4A30"
+    ],
+    "item_no": "KT5377",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5377D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.9 cu.ft.",
+        "image": "models/KT5377/KT5377-tray.jpg",
+        "images": [
+          "models/KT5377/KT5377-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5377W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5377/KT5377-box.jpg",
+        "images": [
+          "models/KT5377/KT5377-box.jpg",
+          "models/KT5377/KT5377-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5377/KT5377-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1962
+    }
+  },
+  "210": {
+    "title": "1962 Volkswagen Classical Bus w/ printing (Ivory Top)",
+    "model_image": "models/KT5377F/KT5377F-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#BF0000",
+      "#FFFF30",
+      "#004ECF",
+      "#FF4A30"
+    ],
+    "item_no": "KT5377F",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5377DF",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.9 cu.ft.",
+        "image": "models/KT5377F/KT5377F-tray.jpg",
+        "images": [
+          "models/KT5377F/KT5377F-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5377WF",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5377F/KT5377F-box.jpg",
+        "images": [
+          "models/KT5377F/KT5377F-box.jpg",
+          "models/KT5377F/KT5377F-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5377F/KT5377F-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1962
+    }
+  },
+  "211": {
+    "title": "1955 Chevy Stepside Tow Truck",
+    "model_image": "models/KT5378/KT5378-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#E70200",
+      "#FF3500",
+      "#FFFFB7",
+      "#001FEF"
+    ],
+    "item_no": "KT5378",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5378D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "4.7 cu.ft.",
+        "image": "models/KT5378/KT5378-tray.jpg",
+        "images": [
+          "models/KT5378/KT5378-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5378W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5378/KT5378-box.jpg",
+        "images": [
+          "models/KT5378/KT5378-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5378/KT5378-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1955
+    }
+  },
+  "226": {
+    "title": "1955 Chevy Steopside Pick-up w/ printing",
+    "model_image": "models/KT5330F/KT5330F-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#000000",
+      "#FF3500",
+      "#FFFFB7",
+      "#001FEF"
+    ],
+    "item_no": "KT5330F",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5330DF",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.0 cu.ft.",
+        "image": "models/KT5330F/KT5330F-tray.jpg",
+        "images": [
+          "models/KT5330F/KT5330F-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5330WF",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5330F/KT5330F-box.jpg",
+        "images": [
+          "models/KT5330F/KT5330F-box.jpg",
+          "models/KT5330F/KT5330F-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5330F/KT5330F-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1955
+    }
+  },
+  "229": {
+    "title": "1967 Volkswagen Classical Beetle (Pastel Color)",
+    "model_image": "models/KT5375/KT5375-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#68CBFF",
+      "#FFA7FF",
+      "#FFFF87",
+      "#FFFF20"
+    ],
+    "item_no": "KT5375",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5375D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.9 cu.ft.",
+        "image": "models/KT5375/KT5375-tray.jpg",
+        "images": [
+          "models/KT5375/KT5375-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5375W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5375/KT5375-box.jpg",
+        "images": [
+          "models/KT5375/KT5375-box.jpg",
+          "models/KT5375/KT5375-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5375/KT5375-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1967
+    }
+  },
+  "239": {
+    "title": "1956 Ford F-100 Pickup",
+    "model_image": "models/KT5385/KT5385-photo.jpg",
+    "scale": "1:38",
+    "color": [
+      "#000000",
+      "#DF0000",
+      "#F7E500",
+      "#FFFFD7"
+    ],
+    "item_no": "KT5385",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5385D",
+        "packing": "12 pcs in a dispaly box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.3 cu.ft.",
+        "image": "models/KT5385/KT5385-tray.jpg",
+        "images": [
+          "models/KT5385/KT5385-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5385W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5385/KT5385-box.jpg",
+        "images": [
+          "models/KT5385/KT5385-box.jpg",
+          "models/KT5385/KT5385-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5385/KT5385-photo.jpg",
+      "models/KT5385/KT5385-photo-2.jpg",
+      "models/KT5385/KT5385-photo-2-1.jpg",
+      "models/KT5385/KT5385-photo-2-2.jpg",
+      "models/KT5385/KT5385-photo-2-3.jpg",
+      "models/KT5385/KT5385-photo-2-4.jpg",
+      "models/KT5385/KT5385-photo-2-5.jpg",
+      "models/KT5385/KT5385-photo-2-6.jpg",
+      "models/KT5385/KT5385-photo-3.jpg",
+      "models/KT5385/KT5385-photo-3-1.jpg",
+      "models/KT5385/KT5385-photo-3-4.jpg",
+      "models/KT5385/KT5385-photo-3-5.jpg",
+      "models/KT5385/KT5385-photo-3-6.jpg",
+      "models/KT5385/KT5385-photo-4.jpg",
+      "models/KT5385/KT5385-photo-4-1.jpg",
+      "models/KT5385/KT5385-photo-4-2.jpg",
+      "models/KT5385/KT5385-photo-4-6.jpg",
+      "models/KT5385/KT5385-photo-5.jpg",
+      "models/KT5385/KT5385-photo-6.jpg",
+      "models/KT5385/KT5385-photo-7.webp",
+      "models/KT5385/KT5385-photo-8.webp",
+      "models/KT5385/KT5385-photo-9.webp"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1956
+    }
+  },
+  "249": {
+    "title": "Lamborghini Miura SV",
+    "model_image": "models/KT5390/KT5390-photo.jpg",
+    "scale": "1:34",
+    "color": [
+      "#EF0000",
+      "#FF8920",
+      "#FFFD10",
+      "#29CF00"
+    ],
+    "item_no": "KT5390",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5390D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.5 cu.ft.",
+        "image": "models/KT5390/KT5390-tray.jpg",
+        "images": [
+          "models/KT5390/KT5390-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5390W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5390/KT5390-box.jpg",
+        "images": [
+          "models/KT5390/KT5390-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5390/KT5390-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "классика по названию",
+      "sortYear": 9100
+    }
+  },
+  "251": {
+    "title": "1963 Volkswagen Bus Double Cab Pickup",
+    "model_image": "models/KT5387/KT5387-photo.jpg",
+    "scale": "1:34",
+    "color": [
+      "#D70000",
+      "#005019",
+      "#FF5708",
+      "#002FFF"
+    ],
+    "item_no": "KT5387",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5387D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.9 cu.ft.",
+        "image": "models/KT5387/KT5387-tray.jpg",
+        "images": [
+          "models/KT5387/KT5387-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5387W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.75 cu.ft.",
+        "image": "models/KT5387/KT5387-box.jpg",
+        "images": [
+          "models/KT5387/KT5387-box.jpg",
+          "models/KT5387/KT5387-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5387/KT5387-photo.jpg",
+      "models/KT5387/KT5387-photo-2.jpg",
+      "models/KT5387/KT5387-photo-2-1.jpg",
+      "models/KT5387/KT5387-photo-2-2.jpg",
+      "models/KT5387/KT5387-photo-2-3.jpg",
+      "models/KT5387/KT5387-photo-2-4.jpg",
+      "models/KT5387/KT5387-photo-2-6.jpg",
+      "models/KT5387/KT5387-photo-2-7.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1963
+    }
+  },
+  "252": {
+    "title": "1963 Volkswagen Bus Double Cab Pickup (Pastel Color)",
+    "model_image": "models/KT5387Y/KT5387Y-photo.jpg",
+    "scale": "1:34",
+    "color": [
+      "#FF8FFF",
+      "#FFFF70",
+      "#30FF5A",
+      "#38FFFF"
+    ],
+    "item_no": "KT5387Y",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5387DY",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.9 cu.ft.",
+        "image": "models/KT5387Y/KT5387Y-tray.jpg",
+        "images": [
+          "models/KT5387Y/KT5387Y-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5387WY",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.75 cu.ft.",
+        "image": "models/KT5387Y/KT5387Y-box.jpg",
+        "images": [
+          "models/KT5387Y/KT5387Y-box.jpg",
+          "models/KT5387Y/KT5387Y-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5387Y/KT5387Y-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1963
+    }
+  },
+  "253": {
+    "title": "1963 Volkswagen Bus Double Cab Pickup (Delivery)",
+    "model_image": "models/KT5396/KT5396-photo.jpg",
+    "scale": "1:34",
+    "color": [
+      "#E70200",
+      "#FFFF18",
+      "#FF8118",
+      "#38FFFF"
+    ],
+    "item_no": "KT5396",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5396D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.9 cu.ft.",
+        "image": "models/KT5396/KT5396-tray.jpg",
+        "images": [
+          "models/KT5396/KT5396-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5396W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.75 cu.ft.",
+        "image": "models/KT5396/KT5396-box.jpg",
+        "images": [
+          "models/KT5396/KT5396-box.jpg",
+          "models/KT5396/KT5396-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5396/KT5396-photo.jpg",
+      "models/KT5396/KT5396-photo-2.webp",
+      "models/KT5396/KT5396-photo-3.webp",
+      "models/KT5396/KT5396-photo-4.webp",
+      "models/KT5396/KT5396-photo-5.webp",
+      "models/KT5396/KT5396-photo-6.webp",
+      "models/KT5396/KT5396-photo-7.webp",
+      "models/KT5396/KT5396-photo-8.webp",
+      "models/KT5396/KT5396-photo-9.webp"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1963
+    }
+  },
+  "273": {
+    "title": "1949 Ford Woody Wagon",
+    "model_image": "models/KT5402/KT5402-photo.jpg",
+    "scale": "1:40",
+    "color": [
+      "#427F00",
+      "#B72100",
+      "#0000A7",
+      "#000000"
+    ],
+    "item_no": "KT5402",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5402D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.7 cu.ft.",
+        "image": "models/KT5402/KT5402-tray.jpg",
+        "images": [
+          "models/KT5402/KT5402-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5402W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.75 cu.ft.",
+        "image": "models/KT5402/KT5402-box.jpg",
+        "images": [
+          "models/KT5402/KT5402-box.jpg",
+          "models/KT5402/KT5402-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5402/KT5402-photo.jpg",
+      "models/KT5402/KT5402-photo-2-2.jpg",
+      "models/KT5402/KT5402-photo-2-3.jpg",
+      "models/KT5402/KT5402-photo-2-4.jpg",
+      "models/KT5402/KT5402-photo-2-6.jpg",
+      "models/KT5402/KT5402-photo-2-7.jpg",
+      "models/KT5402/KT5402-photo-3.jpg",
+      "models/KT5402/KT5402-photo-3-1.jpg",
+      "models/KT5402/KT5402-photo-3-2.jpg",
+      "models/KT5402/KT5402-photo-3-3.jpg",
+      "models/KT5402/KT5402-photo-3-4.jpg",
+      "models/KT5402/KT5402-photo-4.jpg",
+      "models/KT5402/KT5402-photo-4-1.jpg",
+      "models/KT5402/KT5402-photo-4-2.jpg",
+      "models/KT5402/KT5402-photo-4-3.jpg",
+      "models/KT5402/KT5402-photo-4-4.jpg",
+      "models/KT5402/KT5402-photo-5.jpg",
+      "models/KT5402/KT5402-photo-5-1.jpg",
+      "models/KT5402/KT5402-photo-5-2.jpg",
+      "models/KT5402/KT5402-photo-5-3.jpg",
+      "models/KT5402/KT5402-photo-5-4.jpg",
+      "models/KT5402/KT5402-photo-6.jpg",
+      "models/KT5402/KT5402-photo-6-1.jpg",
+      "models/KT5402/KT5402-photo-6-2.jpg",
+      "models/KT5402/KT5402-photo-6-3.jpg",
+      "models/KT5402/KT5402-photo-6-4.jpg",
+      "models/KT5402/KT5402-photo-8-1.jpg",
+      "models/KT5402/KT5402-photo-8-2.jpg",
+      "models/KT5402/KT5402-photo-8-3.jpg",
+      "models/KT5402/KT5402-photo-8-4.jpg",
+      "models/KT5402/KT5402-photo-9-2.jpg",
+      "models/KT5402/KT5402-photo-9-3.jpg",
+      "models/KT5402/KT5402-photo-10.jpg",
+      "models/KT5402/KT5402-photo-10-1.jpg",
+      "models/KT5402/KT5402-photo-10-2.jpg",
+      "models/KT5402/KT5402-photo-10-3.jpg",
+      "models/KT5402/KT5402-photo-10-4.jpg",
+      "models/KT5402/KT5402-photo-10-5.jpg",
+      "models/KT5402/KT5402-photo-10-6.jpg",
+      "models/KT5402/KT5402-photo-11.jpg",
+      "models/KT5402/KT5402-photo-12.jpg",
+      "models/KT5402/KT5402-photo-13.jpg",
+      "models/KT5402/KT5402-photo-14.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1949
+    }
+  },
+  "275": {
+    "title": "Porsche 356 B Carrera 2",
+    "model_image": "models/KT5398/KT5398-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#005000",
+      "#E8EAD5",
+      "#CF0009",
+      "#0078DF"
+    ],
+    "item_no": "KT5398",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5398D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.5 cu.ft.",
+        "image": "models/KT5398/KT5398-tray.jpg",
+        "images": [
+          "models/KT5398/KT5398-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5398W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.75 cu.ft.",
+        "image": "models/KT5398/KT5398-box.jpg",
+        "images": [
+          "models/KT5398/KT5398-box.jpg",
+          "models/KT5398/KT5398-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5398/KT5398-photo.jpg",
+      "models/KT5398/KT5398-photo-2.jpg",
+      "models/KT5398/KT5398-photo-2-1.jpg",
+      "models/KT5398/KT5398-photo-3.jpg",
+      "models/KT5398/KT5398-photo-3-1.jpg",
+      "models/KT5398/KT5398-photo-4.jpg",
+      "models/KT5398/KT5398-photo-4-1.jpg",
+      "models/KT5398/KT5398-photo-4-2.jpg",
+      "models/KT5398/KT5398-photo-4-3.jpg",
+      "models/KT5398/KT5398-photo-5.jpg",
+      "models/KT5398/KT5398-photo-6.jpg",
+      "models/KT5398/KT5398-photo-7.jpg",
+      "models/KT5398/KT5398-photo-8.jpg",
+      "models/KT5398/KT5398-photo-9.webp",
+      "models/KT5398/KT5398-photo-10.webp",
+      "models/KT5398/KT5398-photo-11.webp",
+      "models/KT5398/KT5398-photo-12.webp",
+      "models/KT5398/KT5398-photo-13.webp",
+      "models/KT5398/KT5398-photo-14.webp",
+      "models/KT5398/KT5398-photo-15.webp",
+      "models/KT5398/KT5398-photo-16.webp",
+      "models/KT5398/KT5398-photo-17.webp",
+      "models/KT5398/KT5398-photo-18.webp",
+      "models/KT5398/KT5398-photo-19.webp",
+      "models/KT5398/KT5398-photo-20.webp",
+      "models/KT5398/KT5398-photo-21.webp",
+      "models/KT5398/KT5398-photo-22.webp",
+      "models/KT5398/KT5398-photo-23.webp",
+      "models/KT5398/KT5398-photo-24.webp",
+      "models/KT5398/KT5398-photo-25.webp",
+      "models/KT5398/KT5398-photo-26.webp",
+      "models/KT5398/KT5398-photo-27.webp",
+      "models/KT5398/KT5398-photo-28.webp"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 9000
+    }
+  },
+  "276": {
+    "title": "1949 Ford Woody Wagon with surfboard",
+    "model_image": "models/KT5402S1/KT5402S1-photo.jpg",
+    "scale": "1:40",
+    "color": [
+      "#427F00",
+      "#B72100",
+      "#0000A7",
+      "#000000"
+    ],
+    "item_no": "KT5402S1",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5402DS1",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.0 cu.ft.",
+        "image": "models/KT5402S1/KT5402S1-tray.jpg",
+        "images": [
+          "models/KT5402S1/KT5402S1-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5402WS1",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.75 cu.ft.",
+        "image": "models/KT5402S1/KT5402S1-box.jpg",
+        "images": [
+          "models/KT5402S1/KT5402S1-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5402S1/KT5402S1-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1949
+    }
+  },
+  "286": {
+    "title": "1932 Ford 3-Window Coupe with printing",
+    "model_image": "models/KT5332F/KT5332F-photo.jpg",
+    "scale": "1:34",
+    "color": [
+      "#0000AF",
+      "#004000",
+      "#E6C82E",
+      "#870000"
+    ],
+    "item_no": "KT5332F",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5332DF",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.3 cu.ft.",
+        "image": "models/KT5332F/KT5332F-tray.jpg",
+        "images": [
+          "models/KT5332F/KT5332F-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5332WF",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5332F/KT5332F-box.jpg",
+        "images": [
+          "models/KT5332F/KT5332F-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5332F/KT5332F-photo.jpg",
+      "models/KT5332F/KT5332F-photo-2.webp",
+      "models/KT5332F/KT5332F-photo-3.webp",
+      "models/KT5332F/KT5332F-photo-4.webp",
+      "models/KT5332F/KT5332F-photo-5.webp",
+      "models/KT5332F/KT5332F-photo-6.webp",
+      "models/KT5332F/KT5332F-photo-7.webp",
+      "models/KT5332F/KT5332F-photo-8.webp",
+      "models/KT5332F/KT5332F-photo-9.webp",
+      "models/KT5332F/KT5332F-photo-10.jpg",
+      "models/KT5332F/KT5332F-photo-11.webp",
+      "models/KT5332F/KT5332F-photo-12.webp",
+      "models/KT5332F/KT5332F-photo-13.webp",
+      "models/KT5332F/KT5332F-photo-14.webp",
+      "models/KT5332F/KT5332F-photo-15.webp",
+      "models/KT5332F/KT5332F-photo-16.webp"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1932
+    }
+  },
+  "287": {
+    "title": "1956 Ford F-100 Pickup with printing",
+    "model_image": "models/KT5385F/KT5385F-photo.jpg",
+    "scale": "1:38",
+    "color": [
+      "#000000",
+      "#003EBF",
+      "#F7E500",
+      "#FFFFD7"
+    ],
+    "item_no": "KT5385F",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5385DF",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.3 cu.ft.",
+        "image": "models/KT5385F/KT5385F-tray.jpg",
+        "images": [
+          "models/KT5385F/KT5385F-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5385WF",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5385F/KT5385F-box.jpg",
+        "images": [
+          "models/KT5385F/KT5385F-box.jpg",
+          "models/KT5385F/KT5385F-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5385F/KT5385F-photo.jpg",
+      "models/KT5385F/KT5385F-photo-2.jpg",
+      "models/KT5385F/KT5385F-photo-3.webp",
+      "models/KT5385F/KT5385F-photo-4.webp",
+      "models/KT5385F/KT5385F-photo-5.jpg",
+      "models/KT5385F/KT5385F-photo-6.webp",
+      "models/KT5385F/KT5385F-photo-7.webp",
+      "models/KT5385F/KT5385F-photo-8.webp",
+      "models/KT5385F/KT5385F-photo-9.webp"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1956
+    }
+  },
+  "288": {
+    "title": "1955 Chevy Stepside Pick-up (Matte Color)",
+    "model_image": "models/KT5330M/KT5330M-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#103FFF",
+      "#BF0000",
+      "#0E7F00",
+      "#000000"
+    ],
+    "item_no": "KT5330M",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5330DM",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.0 cu.ft.",
+        "image": "models/KT5330M/KT5330M-tray.jpg",
+        "images": [
+          "models/KT5330M/KT5330M-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5330WM",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5330M/KT5330M-box.jpg",
+        "images": [
+          "models/KT5330M/KT5330M-box.jpg",
+          "models/KT5330M/KT5330M-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5330M/KT5330M-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1955
+    }
+  },
+  "289": {
+    "title": "1962 Volkswagen Classical Bus (Pastel Color)",
+    "model_image": "models/KT5060Y/KT5060Y-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#FFC7FF",
+      "#7FE2FF",
+      "#FFFF8F",
+      "#87FF97"
+    ],
+    "item_no": "KT5060Y",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5060DY",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.9 cu.ft.",
+        "image": "models/KT5060Y/KT5060Y-tray.jpg",
+        "images": [
+          "models/KT5060Y/KT5060Y-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5060WY",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5060Y/KT5060Y-box.jpg",
+        "images": [
+          "models/KT5060Y/KT5060Y-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5060Y/KT5060Y-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1962
+    }
+  },
+  "290": {
+    "title": "1962 Volkswagen Classical Bus with printing (Pastel Color)",
+    "model_image": "models/KT5060YF/KT5060YF-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#FFC7FF",
+      "#7FE2FF",
+      "#FFFF8F",
+      "#87FF97"
+    ],
+    "item_no": "KT5060YF",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5060DYF",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.9 cu.ft.",
+        "image": "models/KT5060YF/KT5060YF-tray.jpg",
+        "images": [
+          "models/KT5060YF/KT5060YF-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5060WYF",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5060YF/KT5060YF-box.jpg",
+        "images": [
+          "models/KT5060YF/KT5060YF-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5060YF/KT5060YF-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1962
+    }
+  },
+  "300": {
+    "title": "1967 Chevrolet Impala",
+    "model_image": "models/KT5418/KT5418-photo.jpg",
+    "scale": "1:43",
+    "color": [
+      "#DB2622",
+      "#F7F4E6",
+      "#6395C3",
+      "#000000"
+    ],
+    "item_no": "KT5418",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5418D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.6 cu.ft.",
+        "image": "models/KT5418/KT5418-tray.jpg",
+        "images": [
+          "models/KT5418/KT5418-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5418W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5418/KT5418-box.jpg",
+        "images": [
+          "models/KT5418/KT5418-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5418/KT5418-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1967
+    }
+  },
+  "317": {
+    "title": "1966 Ford GT40 MKII",
+    "model_image": "models/KT5427/KT5427-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#DF0000",
+      "#0000F7",
+      "#FFFFFF",
+      "#000000"
+    ],
+    "item_no": "KT5427",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5427D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.4 cu.ft.",
+        "image": "models/KT5427/KT5427-tray.jpg",
+        "images": [
+          "models/KT5427/KT5427-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5427W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.75 cu.ft.",
+        "image": "models/KT5427/KT5427-box.jpg",
+        "images": [
+          "models/KT5427/KT5427-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5427/KT5427-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "год 1966",
+      "sortYear": 1966
+    }
+  },
+  "318": {
+    "title": "1966 Ford GT40 MKII (Heritage Edition)",
+    "model_image": "models/KT5427F/KT5427F-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#000000",
+      "#B1D7EA",
+      "#926B52"
+    ],
+    "item_no": "KT5427F",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5427DF",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.4 cu.ft.",
+        "image": "models/KT5427F/KT5427F-tray.jpg",
+        "images": [
+          "models/KT5427F/KT5427F-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5427WF",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.75 cu.ft.",
+        "image": "models/KT5427F/KT5427F-box.jpg",
+        "images": [
+          "models/KT5427F/KT5427F-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5427F/KT5427F-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "год 1966",
+      "sortYear": 1966
+    }
+  },
+  "325": {
+    "title": "1971 Jeep DJ-5B",
+    "model_image": "models/KT5433/KT5433-photo.jpg",
+    "scale": "1:26",
+    "color": [
+      "#000000",
+      "#FFFFFF",
+      "#D70000",
+      "#0A00CF"
+    ],
+    "item_no": "KT5433",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5433D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "4.3 cu.ft.",
+        "image": "models/KT5433/KT5433-tray.jpg",
+        "images": [
+          "models/KT5433/KT5433-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5433W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.75 cu.ft.",
+        "image": "models/KT5433/KT5433-box.jpg",
+        "images": [
+          "models/KT5433/KT5433-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5433/KT5433-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "год 1971",
+      "sortYear": 1971
+    }
+  },
+  "344": {
+    "title": "1971 Jeep DJ-5B (Police)",
+    "model_image": "models/KT5433P/KT5433P-photo.jpg",
+    "scale": "1:26",
+    "color": [
+      "#000000"
+    ],
+    "item_no": "KT5433P",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5433DP",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "4.3 cu.ft.",
+        "image": "models/KT5433P/KT5433P-tray.jpg",
+        "images": [
+          "models/KT5433P/KT5433P-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5433WP",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.75 cu.ft.",
+        "image": "models/KT5433P/KT5433P-box.jpg",
+        "images": [
+          "models/KT5433P/KT5433P-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5433P/KT5433P-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "год 1971",
+      "sortYear": 1971
+    }
+  },
+  "345": {
+    "title": "1971 Jeep DJ-5B (Police/ Firefighter)",
+    "model_image": "models/KT5433PR/KT5433PR-photo.jpg",
+    "scale": "1:26",
+    "color": [
+      "#0000A7",
+      "#EF0029"
+    ],
+    "item_no": "KT5433PR",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5433DPR",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "4.3 cu.ft.",
+        "image": "models/KT5433PR/KT5433PR-tray.jpg",
+        "images": [
+          "models/KT5433PR/KT5433PR-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5433WPR",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.75 cu.ft.",
+        "image": "models/KT5433PR/KT5433PR-box.jpg",
+        "images": [
+          "models/KT5433PR/KT5433PR-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5433PR/KT5433PR-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "год 1971",
+      "sortYear": 1971
+    }
+  },
+  "346": {
+    "title": "1971 Jeep DJ-5B (School Bus)",
+    "model_image": "models/KT5446/KT5446-photo.jpg",
+    "scale": "1:26",
+    "color": [
+      "#FFE210"
+    ],
+    "item_no": "KT5446",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5446D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "4.3 cu.ft.",
+        "image": "models/KT5446/KT5446-tray.jpg",
+        "images": [
+          "models/KT5446/KT5446-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5446W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.75 cu.ft.",
+        "image": "models/KT5446/KT5446-box.jpg",
+        "images": [
+          "models/KT5446/KT5446-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5446/KT5446-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "год 1971",
+      "sortYear": 1971
+    }
+  },
+  "348": {
+    "title": "1967 Volkswagen Classical Beetle (Matte Color)",
+    "model_image": "models/KT5057M/KT5057M-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#DF0019",
+      "#FFF508",
+      "#283DFF",
+      "#000000"
+    ],
+    "item_no": "KT5057M",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5057DM",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.9 cu.ft.",
+        "image": "models/KT5057M/KT5057M-tray.jpg",
+        "images": [
+          "models/KT5057M/KT5057M-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5057WM",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5057M/KT5057M-box.jpg",
+        "images": [
+          "models/KT5057M/KT5057M-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5057M/KT5057M-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "год 1967",
+      "sortYear": 1967
+    }
+  },
+  "367": {
+    "title": "Aston Martin DB5",
+    "model_image": "models/KT5406/KT5406-photo.jpg",
+    "scale": "1:38",
+    "color": [
+      "#F72D00",
+      "#E7E7E7",
+      "#87D0FF",
+      "#007F14"
+    ],
+    "item_no": "KT5406",
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5406D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.4 cu.ft.",
+        "image": "models/KT5406/KT5406-tray.jpg",
+        "images": [
+          "models/KT5406/KT5406-tray.jpg",
+          "models/KT5406/KT5406-tray-2.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5406W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5406/KT5406-box.jpg",
+        "images": [
+          "models/KT5406/KT5406-box.jpg",
+          "models/KT5406/KT5406-box-2.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5406/KT5406-photo.jpg",
+      "models/KT5406/KT5406-photo-2.jpg",
+      "models/KT5406/KT5406-photo-2-1.jpg",
+      "models/KT5406/KT5406-photo-2-2.jpg",
+      "models/KT5406/KT5406-photo-2-3.jpg",
+      "models/KT5406/KT5406-photo-2-4.jpg",
+      "models/KT5406/KT5406-photo-2-5.jpg",
+      "models/KT5406/KT5406-photo-2-6.jpg",
+      "models/KT5406/KT5406-photo-2-7.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 9000
+    }
+  },
+  "375": {
+    "title": "1955 Chevy Stepside Pick-up",
+    "model_image": "models/KT3002/KT3002-photo.jpg",
+    "scale": "1:54",
+    "color": [
+      "#000000",
+      "#0000D7",
+      "#EF0A00",
+      "#FF9C18",
+      "#FFE210",
+      "#FFFFCF"
+    ],
+    "item_no": "KT3002",
+    "description": "3'' Die Cast Metal, Doors Openable, Free Wheel",
+    "packaging": [
+      {
+        "item_no": "KT3002D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "144 pcs",
+        "outer_box": "288 pcs",
+        "meas": "2.4 cu.ft.",
+        "image": "models/KT3002/KT3002-tray.jpg",
+        "images": [
+          "models/KT3002/KT3002-tray.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT3002/KT3002-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "год 1955",
+      "sortYear": 1955
+    }
+  },
+  "376": {
+    "title": "1955 Chevy Stepside Pick-up (Livery Edition)",
+    "model_image": "models/KT3002F/KT3002F-photo.jpg",
+    "scale": "1:54",
+    "color": [
+      "#000000",
+      "#0000D7",
+      "#EF0A00",
+      "#FF9C18",
+      "#FFE210",
+      "#FFFFCF"
+    ],
+    "item_no": "KT3002F",
+    "description": "3'' Die Cast Metal, Doors Openable, Free Wheel",
+    "packaging": [
+      {
+        "item_no": "KT3002DF",
+        "packing": "12 pcs in a display box",
+        "inner_box": "144 pcs",
+        "outer_box": "288 pcs",
+        "meas": "2.4 cu.ft.",
+        "image": "models/KT3002F/KT3002F-tray.jpg",
+        "images": [
+          "models/KT3002F/KT3002F-tray.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT3002F/KT3002F-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "год 1955",
+      "sortYear": 1955
+    }
+  },
+  "377": {
+    "title": "1955 Chevy Stepside Pick-up (Police Edition)",
+    "model_image": "models/KT3002P/KT3002P-photo.jpg",
+    "scale": "1:54",
+    "color": [
+      "#000000"
+    ],
+    "item_no": "KT3002P",
+    "description": "3'' Die Cast Metal, Doors Openable, Free Wheel",
+    "packaging": [
+      {
+        "item_no": "KT3002DP",
+        "packing": "12 pcs in a display box",
+        "inner_box": "144 pcs",
+        "outer_box": "288 pcs",
+        "meas": "2.6 cu.ft.",
+        "image": "models/KT3002P/KT3002P-tray.jpg",
+        "images": [
+          "models/KT3002P/KT3002P-tray.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT3002P/KT3002P-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "год 1955",
+      "sortYear": 1955
+    }
+  },
+  "378": {
+    "title": "1955 Chevy Stepside Pick-up (Police/ Firefighter Edition)",
+    "model_image": "models/KT3002PR/KT3002PR-photo.jpg",
+    "scale": "1:54",
+    "color": [
+      "#0033CF",
+      "#E70000"
+    ],
+    "item_no": "KT3002PR",
+    "description": "3'' Die Cast Metal, Doors Openable, Free Wheel",
+    "packaging": [
+      {
+        "item_no": "KT3002DPR",
+        "packing": "12 pcs in a display box",
+        "inner_box": "144 pcs",
+        "outer_box": "288 pcs",
+        "meas": "2.6 cu.ft.",
+        "image": "models/KT3002PR/KT3002PR-tray.jpg",
+        "images": [
+          "models/KT3002PR/KT3002PR-tray.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT3002PR/KT3002PR-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "год 1955",
+      "sortYear": 1955
+    }
+  },
+  "417": {
+    "title": "1962 Volkswagen Classical Bus (Pastel Color with Ivory Top)",
+    "model_image": "models/KT5377Y/KT5377Y-photo.jpg",
+    "scale": "1:32",
+    "color": [
+      "#68CBFF",
+      "#FFA7FF",
+      "#FFFF87",
+      "#97FFDC"
+    ],
+    "item_no": "KT5377Y",
+    "description": "5'' Die Cast Metal * Doors Openable * Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5377DY",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "3.9 cu.ft.",
+        "image": "models/KT5377Y/KT5377Y-tray.jpg",
+        "images": [
+          "models/KT5377Y/KT5377Y-tray.jpg"
+        ]
+      },
+      {
+        "item_no": "KT5377WY",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.8 cu.ft.",
+        "image": "models/KT5377Y/KT5377Y-box.jpg",
+        "images": [
+          "models/KT5377Y/KT5377Y-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5377Y/KT5377Y-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "год 1962",
+      "sortYear": 1962
+    }
+  },
+  "460": {
+    "title": "1974 Ford Maverick",
+    "model_image": "models/KT5488/KT5488-photo.jpg",
+    "scale": "1:38",
+    "item_no": "KT5488",
+    "color": [
+      "#888888"
+    ],
+    "description": "5'' Die Cast Metal * Doors Openable * Pull Back Action",
+    "packaging": [
+      {
+        "item_no": "KT5488D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "72 pcs",
+        "outer_box": "144 pcs",
+        "meas": "2.6 cu.ft.",
+        "image": ""
+      },
+      {
+        "item_no": "KT5488W",
+        "packing": "1 pc in a window box",
+        "inner_box": "24 pcs",
+        "outer_box": "96 pcs",
+        "meas": "3.75 cu.ft.",
+        "image": "models/KT5488/KT5488-box.jpg",
+        "images": [
+          "models/KT5488/KT5488-box.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5488/KT5488-photo.jpg"
+    ],
+    "_classic": {
+      "reason": "год 1974",
+      "sortYear": 1974
+    }
+  },
+  "5506": {
+    "title": "1956 Ford F-100 Pickup Ice Cream Truck",
+    "item_no": "KT5506",
+    "scale": "1:38",
+    "color": [
+      "#FFFFFF"
+    ],
+    "description": "5'' Die Cast Metal, Doors Openable, Pull Back Action",
+    "model_image": "models/KT5506/KT5506-photo.jpg",
+    "packaging": [
+      {
+        "item_no": "KT5506D",
+        "packing": "12 pcs in a display box",
+        "inner_box": "12 pcs",
+        "outer_box": "144 pcs",
+        "meas": "",
+        "image": "models/KT5506/KT5506-tray.jpg",
+        "images": [
+          "models/KT5506/KT5506-tray.jpg"
+        ]
+      }
+    ],
+    "model_images": [
+      "models/KT5506/KT5506-photo.jpg",
+      "models/KT5506/KT5506-photo-2.jpg",
+      "models/KT5506/KT5506-photo-3.jpg",
+      "models/KT5506/KT5506-photo-4.webp",
+      "models/KT5506/KT5506-photo-5.webp",
+      "models/KT5506/KT5506-photo-6.webp",
+      "models/KT5506/KT5506-photo-7.webp",
+      "models/KT5506/KT5506-photo-8.jpg",
+      "models/KT5506/KT5506-photo-9.jpg",
+      "models/KT5506/KT5506-photo-10.jpg"
+    ],
+    "_classic": {
+      "reason": "список index-new",
+      "sortYear": 1956
+    }
+  }
+}
